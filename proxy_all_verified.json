@@ -1,0 +1,19 @@
+[
+  {
+    "type": "mtproto",
+    "host": "live.rkn.dog",
+    "port": 443,
+    "secret": "ee0ed599492f969465c4585d5fb71fea7c6c6976652e726b6e2e646f67",
+    "link": "tg://proxy?server=live.rkn.dog&port=443&secret=ee0ed599492f969465c4585d5fb71fea7c6c6976652e726b6e2e646f67",
+    "ping": 0.305,
+    "domain": "i/ex]_|live.rkn.dog",
+    "method": "TCP_OK",
+    "probe_resistant": true,
+    "dpi_passed": null,
+    "score": 75,
+    "prev_score": 90,
+    "score_trend": "down",
+    "check_count": 2,
+    "uptime_pct": 100.0
+  }
+]
