@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://username.github.io/mtproto-proxy-list//sitemap.xml
+Sitemap: https://ded-maxim-1337.github.io/Telegram-Proxy-Base//sitemap.xml
