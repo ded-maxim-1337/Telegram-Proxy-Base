@@ -3,7 +3,7 @@
 Автоматически обновляемый список проверенных **MTProto**-прокси для Telegram.
 Сбор из открытых источников, проверка доступности, probe resistance (Fake-TLS) и публикация.
 
-Обновлено: **2026-07-16 23:07 UTC** · **1** рабочих прокси
+Обновлено: **2026-07-16 23:22 UTC** · **1** рабочих прокси
 
 ---
 
@@ -13,9 +13,9 @@
 
 | Тип | Список | Примечание |
 | --- | --- | --- |
-| MTProto (все) | [proxy_all.txt](https://raw.githubusercontent.com/ded-maxim-1337/Telegram-Proxy-Base/gh-pages/proxy_all.txt) | Ссылки `tg://proxy?...` для парсеров и ботов |
-| MTProto (с заголовком) | [proxies.txt](https://raw.githubusercontent.com/ded-maxim-1337/Telegram-Proxy-Base/gh-pages/proxies.txt) | То же, с комментарием и датой |
-| JSON (метаданные) | [proxy_all_verified.json](https://raw.githubusercontent.com/ded-maxim-1337/Telegram-Proxy-Base/gh-pages/proxy_all_verified.json) | ping, domain, probe_resistant |
+| MTProto (все) | [proxy_all.txt](proxy_all.txt) | Ссылки `tg://proxy?...` для парсеров и ботов |
+| MTProto (с заголовком) | [proxies.txt](proxies.txt) | То же, с комментарием и датой |
+| JSON (метаданные) | [proxy_all_verified.json](proxy_all_verified.json) | ping, domain, probe_resistant |
 
 **Мобильная страница:** [https://username.github.io/mtproto-proxy-list/](https://username.github.io/mtproto-proxy-list/) — нажмите кнопку, Telegram предложит подключиться.
 
@@ -27,7 +27,7 @@
 | --- | --- | --- |
 | Telegram-канал | Обновления списков и новости | [Канал](https://t.me/your_channel) |
 | Сайт проекта | Документация и полный список | [Сайт](http://31.128.40.126:8000) |
-| GitHub | Этот репозиторий | [GitHub](https://github.com/ded-maxim-1337/Telegram-Proxy-Base) |
+| GitHub | Этот репозиторий | [GitHub](https://username.github.io/mtproto-proxy-list/) |
 
 ---
 

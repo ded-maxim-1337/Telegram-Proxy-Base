@@ -3,7 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Как устроено — Ретранслятор</title>
+  <title>Как работают MTProto-прокси для Telegram — Ретранслятор</title>
+  <meta name="description" content="Как Ретранслятор собирает, проверяет и публикует рабочие MTProto / MTProxy для Telegram.">
+  <meta name="keywords" content="mtproxy, MTProto прокси, прокси телеграм, telegram proxy">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://username.github.io/mtproto-proxy-list//how.html">
+  <meta property="og:title" content="Как работают MTProto-прокси для Telegram">
+  <meta property="og:description" content="Сбор, проверка и публикация рабочих MTProxy — без ручной работы.">
   <link rel="stylesheet" href="static/css/relay.css">
 </head>
 <body>
@@ -20,49 +26,55 @@
           <div class="brand-tag">MTProto · Telegram</div>
         </div>
       </a>
-      <nav class="site-nav">
-        <a href="index.html" class="nav-link">Прокси</a>
+      <nav class="site-nav" aria-label="Главное меню">
+        <a class="nav-btn" href="http://31.128.40.126:8000/#add" rel="noopener">Добавить свои прокси</a>
+        <a class="nav-link" href="http://31.128.40.126:8000/check" rel="noopener">Проверить прокси</a>
+        <a class="nav-link" href="https://t.me/your_channel" target="_blank" rel="noopener noreferrer">Telegram</a>
+        <a class="nav-link" href="https://username.github.io/mtproto-proxy-list/" target="_blank" rel="noopener noreferrer">GitHub</a>
+        <a class="nav-link" href="https://t.me/your_vpn_bot" target="_blank" rel="noopener noreferrer">VPN</a>
         <a href="how.html" class="nav-link is-active">Как устроено</a>
       </nav>
     </header>
 
-    <section class="hero">
-      <div class="hero-eyebrow">под капотом</div>
-      <h1>От ссылки в канале<br>до кнопки «Подключить»</h1>
-      <p class="hero-lead">Всё происходит без ручной работы: парсинг, проверка, фильтрация и публикация — по расписанию.</p>
-    </section>
+    <main>
+      <section class="hero">
+        <div class="hero-eyebrow">под капотом</div>
+        <h1>От ссылки в канале<br>до кнопки «Подключить»</h1>
+        <p class="hero-lead">Всё происходит без ручной работы: парсинг MTProto-ссылок, проверка MTProxy, фильтрация и публикация — по расписанию.</p>
+      </section>
 
-    <div class="card">
-      <ol class="flow-steps">
-        <li><strong>Сбор</strong><span>Читаем MTProto-ссылки из заданных Telegram-каналов и топиков.</span></li>
-        <li><strong>Проверка</strong><span>TCP-пинг, Telethon, probe resistance и при необходимости DPI-тест.</span></li>
-        <li><strong>Отбор</strong><span>В список попадают только рабочие узлы, отсортированные по скорости.</span></li>
-        <li><strong>Публикация</strong><span>Результат уходит на сайт, в Telegram-канал и на GitHub Pages.</span></li>
-      </ol>
-    </div>
+      <div class="card">
+        <ol class="flow-steps">
+          <li><strong>Сбор</strong><span>Читаем MTProto-ссылки из заданных Telegram-каналов и топиков.</span></li>
+          <li><strong>Проверка</strong><span>TCP-пинг, Telethon, probe resistance и при необходимости DPI-тест.</span></li>
+          <li><strong>Отбор</strong><span>В топ попадают только рабочие узлы, отсортированные по рейтингу.</span></li>
+          <li><strong>Публикация</strong><span>Результат уходит на сайт, в Telegram-канал и на GitHub Pages.</span></li>
+        </ol>
+      </div>
 
-    <div class="section-head"><h2 class="section-title">Как подключить</h2></div>
-    <div class="card">
-      <p class="card-text" style="margin:0">На главной нажмите «Подключить» — Telegram откроет диалог добавления прокси. Подтвердите, и всё.</p>
-    </div>
+      <div class="section-head"><h2 class="section-title">Как подключить</h2></div>
+      <div class="card">
+        <p class="card-text" style="margin:0">На главной в таблице топ-10 нажмите «Подключить» — Telegram откроет диалог добавления прокси. Подтвердите, и всё.</p>
+      </div>
 
-    <div class="section-head"><h2 class="section-title">Ссылки</h2></div>
-    <div class="link-grid">
-      <a class="link-tile" href="https://username.github.io/mtproto-proxy-list/" target="_blank" rel="noopener">
-        <span>GitHub — исходники и списки</span><span class="link-tile-arrow">→</span>
-      </a>
-      <a class="link-tile" href="https://t.me/your_channel" target="_blank" rel="noopener">
-        <span>Telegram-канал с прокси</span><span class="link-tile-arrow">→</span>
-      </a>
-      <a class="link-tile link-tile--accent" href="https://t.me/your_vpn_bot" target="_blank" rel="noopener">
-        <span>VPN-бот в Telegram</span><span class="link-tile-arrow">→</span>
-      </a>
-      <a class="link-tile" href="https://example.com" target="_blank" rel="noopener">
-        <span>Сайт VPN-сервиса</span><span class="link-tile-arrow">→</span>
-      </a>
-    </div>
+      <div class="section-head"><h2 class="section-title">Ссылки</h2></div>
+      <div class="link-grid">
+        <a class="link-tile" href="https://username.github.io/mtproto-proxy-list/" target="_blank" rel="noopener">
+          <span>GitHub — исходники и списки</span><span class="link-tile-arrow">→</span>
+        </a>
+        <a class="link-tile" href="https://t.me/your_channel" target="_blank" rel="noopener">
+          <span>Telegram-канал с прокси</span><span class="link-tile-arrow">→</span>
+        </a>
+        <a class="link-tile link-tile--accent" href="https://t.me/your_vpn_bot" target="_blank" rel="noopener">
+          <span>VPN-бот в Telegram</span><span class="link-tile-arrow">→</span>
+        </a>
+        <a class="link-tile" href="https://example.com" target="_blank" rel="noopener">
+          <span>Сайт VPN-сервиса</span><span class="link-tile-arrow">→</span>
+        </a>
+      </div>
 
-    <p class="note">Прокси на этой странице — только для Telegram. VPN даёт полноценный доступ в интернет.</p>
+      <p class="note">Прокси на этой странице — только для Telegram (MTProto). VPN даёт полноценный доступ в интернет.</p>
+    </main>
   </div>
 </body>
 </html>

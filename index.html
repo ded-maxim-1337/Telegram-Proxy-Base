@@ -3,12 +3,35 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Живой список проверенных MTProto-прокси для Telegram.">
-  <title>Ретранслятор — MTProto для Telegram</title>
+  <title>Прокси для Telegram — топ MTProto / MTProxy бесплатно | Ретранслятор</title>
+  <meta name="description" content="Рабочие MTProto-прокси (MTProxy) для Telegram: топ-10 по рейтингу, бесплатно и с автопроверкой. Подключайте tg://proxy в один клик.">
+  <meta name="keywords" content="прокси телеграм, прокси для телеграм, telegram proxy, mtproxy, MTProto прокси, MTProto proxy, бесплатные прокси телеграм, рабочие прокси telegram, tg proxy, t.me/proxy, telegram mtproto, список прокси telegram">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#0c0b09">
+  <link rel="canonical" href="https://username.github.io/mtproto-proxy-list//">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="ru_RU">
+  <meta property="og:site_name" content="Ретранслятор">
+  <meta property="og:title" content="Прокси для Telegram — топ MTProto / MTProxy">
+  <meta property="og:description" content="Бесплатный топ проверенных MTProto-прокси для Telegram.">
+  <meta property="og:url" content="https://username.github.io/mtproto-proxy-list//">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Прокси для Telegram — топ MTProto / MTProxy">
+  <meta name="twitter:description" content="Рабочие MTProxy для Telegram: топ-10 по рейтингу.">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Ретранслятор",
+    "description": "Автоматический список проверенных MTProto-прокси (MTProxy) для Telegram.",
+    "inLanguage": "ru",
+    "url": "https://username.github.io/mtproto-proxy-list//"
+  }
+  </script>
   <link rel="stylesheet" href="static/css/relay.css">
 </head>
 <body>
-  <div class="shell">
+  <div class="shell shell--table">
     <header class="site-header">
       <a href="index.html" class="brand">
         <div class="brand-mark"><svg width="18" height="18" viewBox="0 0 18 18" fill="none" aria-hidden="true">
@@ -21,56 +44,72 @@
           <div class="brand-tag">MTProto · Telegram</div>
         </div>
       </a>
-      <nav class="site-nav">
-        <a href="index.html" class="nav-link is-active">Прокси</a>
+      <nav class="site-nav" aria-label="Главное меню">
+        <a class="nav-btn" href="http://31.128.40.126:8000/#add" rel="noopener">Добавить свои прокси</a>
+        <a class="nav-link" href="http://31.128.40.126:8000/check" rel="noopener">Проверить прокси</a>
+        <a class="nav-link" href="https://t.me/your_channel" target="_blank" rel="noopener noreferrer">Telegram</a>
+        <a class="nav-link" href="https://username.github.io/mtproto-proxy-list/" target="_blank" rel="noopener noreferrer">GitHub</a>
+        <a class="nav-link" href="https://t.me/your_vpn_bot" target="_blank" rel="noopener noreferrer">VPN</a>
         <a href="how.html" class="nav-link">Как устроено</a>
       </nav>
     </header>
 
-    <section class="hero">
-      <div class="hero-eyebrow">онлайн-список</div>
-      <h1>Прокси, которые<br>уже проверены</h1>
-      <p class="hero-lead">Собираем MTProto-узлы из открытых источников, тестируем и публикуем только рабочие. Нажмите — Telegram подключит сам.</p>
-    </section>
+    <main>
+      <section class="hero hero--compact">
+        <div class="hero-eyebrow">топ-10 · автопроверка</div>
+        <h1>Прокси для Telegram <span class="hero-accent">MTProto / MTProxy</span></h1>
+        <p class="hero-lead">Бесплатный рейтинг рабочих MTProto-прокси: собираем, проверяем пинг и публикуем только живые узлы. Нажмите «Подключить» — Telegram добавит прокси сам.</p>
+      </section>
 
-    <div class="stats-strip">
-      <div class="stat-item">
-        <div class="stat-label">Доступно</div>
-        <div class="stat-value" id="stat-count">1</div>
+      <div class="stats-strip">
+        <div class="stat-item">
+          <div class="stat-label">В базе</div>
+          <div class="stat-value" id="stat-count">1</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-label">Топ на странице</div>
+          <div class="stat-value" id="stat-top">10</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-label">Обновление</div>
+          <div class="stat-value" id="stat-updated">16 Jul 23:22 UTC</div>
+        </div>
       </div>
-      <div class="stat-item">
-        <div class="stat-label">Обновление</div>
-        <div class="stat-value" id="stat-updated">16 Jul 23:07 UTC</div>
-      </div>
-    </div>
 
-    <div class="card card--promo">
-      <div class="card-title">Нужен доступ ко всему интернету?</div>
-      <p class="card-text">Прокси работает только внутри Telegram. Для браузера, стриминга и всего остального — полноценный VPN.</p>
-      <div class="btn-row">
-        <a class="btn btn--primary" href="https://t.me/your_vpn_bot" target="_blank" rel="noopener">Открыть бот</a>
-        <a class="btn btn--ghost" href="https://example.com" target="_blank" rel="noopener">Сайт VPN</a>
-      </div>
-    </div>
+      <section class="table-section" aria-labelledby="table-heading">
+        <div class="section-head">
+          <h2 class="section-title" id="table-heading">Топ-10 прокси</h2>
+          <span class="section-count" id="section-count">1 проверенных</span>
+        </div>
+        <div class="table-wrap table-wrap--public" id="proxy-table-wrap">
+          <div class="state-box">
+            <div class="state-dots"><span></span><span></span><span></span></div>
+            Сканируем узлы…
+          </div>
+        </div>
+      </section>
 
-    <div class="section-head">
-      <h2 class="section-title">Рабочие узлы</h2>
-      <span class="section-count" id="section-count">1 шт.</span>
-    </div>
-
-    <div id="proxy-list" class="proxy-list">
-      <div class="state-box">
-        <div class="state-dots"><span></span><span></span><span></span></div>
-        Сканируем узлы…
-      </div>
-    </div>
+      <section class="seo-block" aria-label="О MTProto-прокси">
+        <h2>Что такое MTProto / MTProxy для Telegram</h2>
+        <p>
+          <strong>MTProto-прокси</strong> (часто называют <strong>MTProxy</strong>) — специальный прокси-протокол Telegram.
+          Он помогает открывать мессенджер при блокировках. В отличие от VPN, такой прокси работает только внутри Telegram.
+        </p>
+        <p>
+          Здесь публикуется актуальный <strong>список рабочих прокси для Telegram</strong>: узлы отсортированы по рейтингу.
+          Форматы ссылок — <code>tg://proxy</code> и <code>t.me/proxy</code> с secret-ключом.
+        </p>
+      </section>
+    </main>
 
     <footer class="site-footer">
-      <span>Автообновление по расписанию</span>
+      <span>Автообновление · MTProto proxy list</span>
     </footer>
   </div>
 
   <script>
+    const TOP_N = 10;
+
     function pingLabel(sec) {
       const ms = Math.round(sec * 1000);
       if (ms < 300) return 'быстрый';
@@ -84,33 +123,57 @@
       return '';
     }
 
+    function esc(s) {
+      return String(s ?? '').replace(/[&<>"']/g, c => ({
+        '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+      })[c]);
+    }
+
     fetch('proxy_all_verified.json')
       .then(res => res.ok ? res.json() : Promise.reject())
       .then(proxies => {
         proxies.sort((a, b) => (b.score || 0) - (a.score || 0) || a.ping - b.ping);
-        const el = document.getElementById('proxy-list');
-        if (!proxies.length) {
-          el.innerHTML = '<div class="state-box">Сейчас нет рабочих прокси.<br>Загляните чуть позже — список обновляется регулярно.</div>';
+        const top = proxies.slice(0, TOP_N);
+        const wrap = document.getElementById('proxy-table-wrap');
+        document.getElementById('stat-top').textContent = String(top.length || TOP_N);
+        if (!top.length) {
+          wrap.innerHTML = '<div class="state-box">Сейчас нет рабочих прокси.<br>Загляните чуть позже — список обновляется регулярно.</div>';
           return;
         }
-        el.innerHTML = proxies.map((p, i) => {
-          const badges = [];
-          badges.push(`<span class="badge badge--score">${p.score || 0}${scoreTrendHtml(p.score_trend || 'same')}</span>`);
-          badges.push(`<span class="badge badge--ping">${(p.ping * 1000).toFixed(0)} мс · ${pingLabel(p.ping)}</span>`);
-          if (p.probe_resistant) badges.push('<span class="badge badge--shield">probe-safe</span>');
+        const rows = top.map((p, i) => {
+          const ms = (p.ping * 1000).toFixed(0);
+          const shield = p.probe_resistant
+            ? '<span class="badge badge--shield">probe-safe</span>'
+            : '<span class="badge badge--muted">MTProto</span>';
           return `
-          <a class="proxy-item" href="${p.link}" rel="noopener" style="animation-delay:${Math.min(i * 0.04, 0.6)}s">
-            <span class="proxy-index">${String(i + 1).padStart(2, '0')}</span>
-            <div class="proxy-info">
-              <div class="proxy-host">${p.host}:${p.port}</div>
-              <div class="proxy-meta">${badges.join(' ')}</div>
-            </div>
-            <span class="proxy-action">Подключить</span>
-          </a>`;
+            <tr>
+              <td class="col-rank">${String(i + 1).padStart(2, '0')}</td>
+              <td class="col-host"><code>${esc(p.host)}:${esc(p.port)}</code></td>
+              <td class="col-score"><span class="badge badge--score">${esc(p.score || 0)}${scoreTrendHtml(p.score_trend || 'same')}</span></td>
+              <td class="col-ping"><span class="badge badge--ping">${ms} мс · ${pingLabel(p.ping)}</span></td>
+              <td class="col-flags">${shield}</td>
+              <td class="col-action">
+                <a class="btn btn--connect btn--sm" href="${esc(p.link)}" rel="noopener noreferrer">Подключить</a>
+              </td>
+            </tr>`;
         }).join('');
+        wrap.innerHTML = `
+          <table class="proxy-table" aria-label="Топ-10 MTProto прокси для Telegram">
+            <thead>
+              <tr>
+                <th scope="col">#</th>
+                <th scope="col">Хост</th>
+                <th scope="col">Рейтинг</th>
+                <th scope="col">Пинг</th>
+                <th scope="col">Тип</th>
+                <th scope="col"></th>
+              </tr>
+            </thead>
+            <tbody>${rows}</tbody>
+          </table>`;
       })
       .catch(() => {
-        document.getElementById('proxy-list').innerHTML =
+        document.getElementById('proxy-table-wrap').innerHTML =
           '<div class="state-box state-box--error">Не удалось загрузить список.</div>';
       });
   </script>
