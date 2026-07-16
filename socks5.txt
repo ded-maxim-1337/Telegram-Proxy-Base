@@ -1,4 +1,0 @@
-# SOCKS5 (1)
-# Updated: 2026-07-04 23:59 UTC
-
-tg://socks?server=149.154.167.51&port=1080

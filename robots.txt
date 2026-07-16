@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://ded-maxim-1337.github.io/Telegram-Proxy-Base//sitemap.xml

@@ -1,4 +1,0 @@
-# MTProto EU (1)
-# Updated: 2026-07-04 23:59 UTC
-
-tg://proxy?server=149.154.167.51&port=443&secret=ee0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef
