@@ -1,5 +1,5 @@
 # MTProto (5)
-# Updated: 2026-07-17 20:06 UTC
+# Updated: 2026-07-17 20:21 UTC
 
 tg://proxy?server=live.rkn.dog&port=443&secret=ee0ed599492f969465c4585d5fb71fea7c6c6976652e726b6e2e646f67
 tg://proxy?server=enjoyxray.duckdns.org&port=443&secret=ee4fb9d8cbadeb90fd1a092fd34e8eb33e62726f777365722e79616e6465782e636f6d
