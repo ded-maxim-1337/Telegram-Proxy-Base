@@ -3,69 +3,131 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#050a10">
+  <link rel="icon" href="redo-mark.png" type="image/png">
   <title>MTProto прокси</title>
   <style>
-    :root { color-scheme: light dark; }
+    :root { color-scheme: dark; }
+    * { box-sizing: border-box; }
     body {
       margin: 0 auto;
-      max-width: 900px;
-      padding: 24px 16px 48px;
-      font: 16px/1.45 system-ui, -apple-system, Segoe UI, sans-serif;
-      color: #1a1a1a;
-      background: #f7f7f5;
+      max-width: 920px;
+      padding: 28px 18px 56px;
+      font: 16px/1.5 "Segoe UI", system-ui, sans-serif;
+      color: #eef6fc;
+      background:
+        radial-gradient(ellipse 70% 45% at 10% 0%, rgba(36,161,222,0.16), transparent 65%),
+        radial-gradient(ellipse 50% 40% at 95% 15%, rgba(0,136,204,0.1), transparent 60%),
+        #050a10;
+      min-height: 100vh;
     }
-    @media (prefers-color-scheme: dark) {
-      body { color: #ecece8; background: #121211; }
-      table { background: #1c1c1a; }
-      th { color: #a8a89e; }
-      td { border-color: #2e2e2a; }
-      code { background: #2a2a26; }
-      .connect { background: #2f6fed; }
-      a { color: #8cb4ff; }
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin: 0 0 14px;
     }
-    h1 { font-size: 1.35rem; margin: 0 0 8px; font-weight: 650; }
-    .meta { color: #666; margin: 0 0 20px; font-size: 0.95rem; }
-    .links { margin: 0 0 16px; line-height: 1.8; }
-    .links a { margin-right: 0; text-decoration: none; }
-    .links a:hover { text-decoration: underline; }
+    .brand img {
+      width: 44px;
+      height: 44px;
+      border-radius: 12px;
+      border: 1px solid rgba(36,161,222,0.35);
+      box-shadow: 0 0 18px rgba(36,161,222,0.18);
+      background: #0a0e14;
+    }
+    h1 {
+      font-size: 1.4rem;
+      margin: 0;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+    }
+    .tag {
+      color: #24a1de;
+      font-size: 0.78rem;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+    }
+    .meta { color: #9bb4c8; margin: 0 0 20px; font-size: 0.95rem; }
+    .links { margin: 0 0 16px; line-height: 1.9; }
+    .links a { color: #4bb8ef; text-decoration: none; }
+    .links a:hover { text-decoration: underline; color: #7fd0ff; }
     table {
       width: 100%;
       border-collapse: collapse;
-      background: #fff;
-      border-radius: 8px;
+      background: #0e1822;
+      border: 1px solid rgba(140,200,240,0.12);
+      border-radius: 12px;
       overflow: hidden;
     }
     th, td {
       text-align: left;
-      padding: 10px 12px;
-      border-bottom: 1px solid #e6e6e0;
+      padding: 11px 12px;
+      border-bottom: 1px solid rgba(140,200,240,0.1);
       vertical-align: middle;
     }
-    th { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.04em; color: #666; }
+    tr:last-child td { border-bottom: 0; }
+    th {
+      font-size: 0.72rem;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: #6f879c;
+      background: #0a1219;
+    }
     code {
-      font: 0.92em/1.3 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
-      background: #eee;
-      padding: 2px 6px;
-      border-radius: 4px;
+      font: 0.9em/1.3 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      background: #152333;
+      padding: 2px 7px;
+      border-radius: 6px;
       word-break: break-all;
+      color: #d7ebf8;
     }
     .connect {
       display: inline-block;
-      padding: 6px 12px;
-      border-radius: 6px;
-      background: #1a5cff;
-      color: #fff !important;
+      padding: 7px 12px;
+      border-radius: 8px;
+      background: #24a1de;
+      color: #041018 !important;
       text-decoration: none;
-      font-size: 0.9rem;
+      font-size: 0.88rem;
+      font-weight: 650;
       white-space: nowrap;
     }
-    .empty { color: #666; }
+    .connect:hover { background: #4bb8ef; }
+    .empty { color: #9bb4c8; }
+    .promo { margin: 22px 0 0; }
+    .promo-awx {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 14px;
+      border-radius: 10px;
+      border: 1px solid rgba(140,200,240,0.14);
+      background: #0e1822;
+      color: #cfe6f6 !important;
+      text-decoration: none;
+      font-size: 0.9rem;
+    }
+    .promo-awx:hover { border-color: rgba(36,161,222,0.4); color: #fff !important; }
+    .promo-awx img {
+      width: 28px;
+      height: 28px;
+      border-radius: 7px;
+      flex-shrink: 0;
+    }
   </style>
 </head>
 <body>
-  <h1>MTProto прокси</h1>
-  <nav class="links"><a href="http://31.128.40.126:8000" target="_blank" rel="noopener noreferrer">Сайт</a> · <a href="http://31.128.40.126:8000/add" target="_blank" rel="noopener noreferrer">Добавить прокси</a> · <a href="https://t.me/tg_proksi" target="_blank" rel="noopener noreferrer">Канал</a> · <a href="https://t.me/tgproxyz_bot" target="_blank" rel="noopener noreferrer">Бот</a> · <a href="https://awxweb.site" target="_blank" rel="noopener noreferrer">VPN сайт</a> · <a href="https://t.me/awxvpn_bot" target="_blank" rel="noopener noreferrer">VPN бот</a></nav>
-  <p class="meta">Обновлено: <strong>2026-07-17 00:54 UTC</strong> · 3 прокси</p>
-  <table><thead><tr><th>#</th><th>Хост</th><th>Рейтинг</th><th>Пинг</th><th>Аптайм</th><th></th></tr></thead><tbody><tr><td>1</td><td><code>live.rkn.dog:443</code></td><td>55</td><td>203 мс</td><td>0м</td><td><a class="connect" href="tg://proxy?server=live.rkn.dog&amp;port=443&amp;secret=ee0ed599492f969465c4585d5fb71fea7c6c6976652e726b6e2e646f67">Подключить</a></td></tr><tr><td>2</td><td><code>132.243.235.196:443</code></td><td>35</td><td>51 мс</td><td>0м</td><td><a class="connect" href="tg://proxy?server=132.243.235.196&amp;port=443&amp;secret=ee5895bbd18604365e8d18b63af6c3bfbe79616e6465782e7275">Подключить</a></td></tr><tr><td>3</td><td><code>143.246.138.57:443</code></td><td>35</td><td>126 мс</td><td>0м</td><td><a class="connect" href="tg://proxy?server=143.246.138.57&amp;port=443&amp;secret=ee45eac47e93699de1f4d459104e46738f6f7a6f6e2e7275">Подключить</a></td></tr></tbody></table>
+  <div class="brand">
+    <img src="redo-mark.png" alt="" width="44" height="44">
+    <div>
+      <div class="tag">REDO · MTProto</div>
+      <h1>Прокси для Telegram</h1>
+    </div>
+  </div>
+  <nav class="links"><a href="https://rkn.dog" target="_blank" rel="noopener noreferrer">🌐 Сайт</a> · <a href="https://rkn.dog/add" target="_blank" rel="noopener noreferrer">➕ Добавить</a> · <a href="https://t.me/tg_proksi" target="_blank" rel="noopener noreferrer">✈️ Канал</a> · <a href="https://t.me/tgproxyz_bot" target="_blank" rel="noopener noreferrer">🤖 Бот</a> · <a href="https://awxweb.site" target="_blank" rel="noopener noreferrer">🛡 AWX VPN</a> · <a href="https://t.me/awxvpn_bot" target="_blank" rel="noopener noreferrer">🛡 AWX VPN бот</a></nav>
+  <p class="meta">Обновлено: <strong>2026-07-17 01:26 UTC</strong> · 3 прокси</p>
+  <table><thead><tr><th>#</th><th>Хост</th><th>Рейтинг</th><th>Пинг</th><th>Аптайм</th><th></th></tr></thead><tbody><tr><td>1</td><td><code>live.rkn.dog:443</code></td><td>47</td><td>203 мс</td><td>0м</td><td><a class="connect" href="tg://proxy?server=live.rkn.dog&amp;port=443&amp;secret=ee0ed599492f969465c4585d5fb71fea7c6c6976652e726b6e2e646f67">Подключить</a></td></tr><tr><td>2</td><td><code>132.243.235.196:443</code></td><td>33</td><td>51 мс</td><td>0м</td><td><a class="connect" href="tg://proxy?server=132.243.235.196&amp;port=443&amp;secret=ee5895bbd18604365e8d18b63af6c3bfbe79616e6465782e7275">Подключить</a></td></tr><tr><td>3</td><td><code>143.246.138.57:443</code></td><td>33</td><td>126 мс</td><td>0м</td><td><a class="connect" href="tg://proxy?server=143.246.138.57&amp;port=443&amp;secret=ee45eac47e93699de1f4d459104e46738f6f7a6f6e2e7275">Подключить</a></td></tr></tbody></table>
+  <p class="promo"><a class="promo-awx" href="https://t.me/awxvpn_bot" target="_blank" rel="noopener noreferrer"><img src="awx-vpn.png" alt="AWX VPN" width="28" height="28"><span>AWX VPN — интернет целиком, не только Telegram</span></a></p>
 </body>
 </html>
