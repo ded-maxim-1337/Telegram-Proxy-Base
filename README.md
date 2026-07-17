@@ -3,7 +3,9 @@
 Автоматически обновляемый список проверенных **MTProto**-прокси для Telegram.
 Сбор из открытых источников, проверка доступности, probe resistance (Fake-TLS) и публикация.
 
-Обновлено: **2026-07-16 23:58 UTC** · **1** рабочих прокси
+Обновлено: **2026-07-17 00:04 UTC** · **1** рабочих прокси
+
+Страница со списком: [https://ded-maxim-1337.github.io/Telegram-Proxy-Base/](https://ded-maxim-1337.github.io/Telegram-Proxy-Base/)
 
 ---
 
@@ -15,9 +17,7 @@
 | --- | --- | --- |
 | MTProto (все) | [proxy_all.txt](https://raw.githubusercontent.com/ded-maxim-1337/Telegram-Proxy-Base/gh-pages/proxy_all.txt) | Ссылки `tg://proxy?...` для парсеров и ботов |
 | MTProto (с заголовком) | [proxies.txt](https://raw.githubusercontent.com/ded-maxim-1337/Telegram-Proxy-Base/gh-pages/proxies.txt) | То же, с комментарием и датой |
-| JSON (метаданные) | [proxy_all_verified.json](https://raw.githubusercontent.com/ded-maxim-1337/Telegram-Proxy-Base/gh-pages/proxy_all_verified.json) | ping, domain, probe_resistant |
-
-**Сайт:** [http://31.128.40.126:8000](http://31.128.40.126:8000) — полный список, проверка и подключение.
+| JSON (метаданные) | [proxy_all_verified.json](https://raw.githubusercontent.com/ded-maxim-1337/Telegram-Proxy-Base/gh-pages/proxy_all_verified.json) | ping, host, link |
 
 ---
 
@@ -49,7 +49,7 @@
 2. **Проверка** — TCP ping, Telethon-подключение, probe resistance (Fake-TLS).
 3. **Публикация** — этот репозиторий, Telegram-канал и сайт.
 
-Сортировка: сначала probe-resistant, затем по возрастанию пинга.
+Сортировка по пингу и рейтингу.
 
 ---
 
