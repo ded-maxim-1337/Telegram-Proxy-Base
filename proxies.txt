@@ -1,5 +1,5 @@
 # MTProto (4)
-# Updated: 2026-07-18 16:06 UTC
+# Updated: 2026-07-18 16:21 UTC
 
 tg://proxy?server=62.146.175.133&port=443&secret=ee8fae0f0e3cf53c84220cecab5b7276b5676f6f676c65617069732e636f6d
 tg://proxy?server=185.86.146.73&port=443&secret=ee311661b19195683251f8ab1e1e56fb5a6164732e78352e7275
