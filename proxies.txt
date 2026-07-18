@@ -1,5 +1,5 @@
 # MTProto (4)
-# Updated: 2026-07-18 00:21 UTC
+# Updated: 2026-07-18 00:36 UTC
 
 tg://proxy?server=enjoyxray.duckdns.org&port=443&secret=ee4fb9d8cbadeb90fd1a092fd34e8eb33e62726f777365722e79616e6465782e636f6d
 tg://proxy?server=62.146.175.135&port=443&secret=eebaa6b35ab8606a4f45f40a5b37adae07676f6f676c65617069732e636f6d
