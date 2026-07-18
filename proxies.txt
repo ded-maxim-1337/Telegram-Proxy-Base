@@ -1,10 +1,10 @@
 # MTProto (7)
-# Updated: 2026-07-18 04:36 UTC
+# Updated: 2026-07-18 04:51 UTC
 
 tg://proxy?server=live.rkn.dog&port=443&secret=ee0ed599492f969465c4585d5fb71fea7c6c6976652e726b6e2e646f67
 tg://proxy?server=enjoyxray.duckdns.org&port=443&secret=ee4fb9d8cbadeb90fd1a092fd34e8eb33e62726f777365722e79616e6465782e636f6d
-tg://proxy?server=eerie.proxytales.life&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=he.67.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
+tg://proxy?server=eerie.proxytales.life&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=phloe.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=154.21.194.167&port=32430&secret=ee801dad7973c6729fc38969cb1b3456f46f7261636c652e636f6d
 tg://proxy?server=185.241.194.220&port=443&secret=eedcaae509a2455bbfc6165f1708fd5c586d61782e7275
