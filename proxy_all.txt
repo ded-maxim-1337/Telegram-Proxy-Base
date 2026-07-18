@@ -1,7 +1,7 @@
 tg://proxy?server=enjoyxray.duckdns.org&port=443&secret=ee4fb9d8cbadeb90fd1a092fd34e8eb33e62726f777365722e79616e6465782e636f6d
-tg://proxy?server=proxy.glob.accuratenetworkchecker.ir&port=443&secret=ee56af8f05bdbbdbfa074c637d21f96e8e7777772e636c6f7564666c6172652e636f6d
-tg://proxy?server=185.86.146.73&port=443&secret=ee311661b19195683251f8ab1e1e56fb5a6164732e78352e7275
 tg://proxy?server=62.146.175.135&port=443&secret=eebaa6b35ab8606a4f45f40a5b37adae07676f6f676c65617069732e636f6d
+tg://proxy?server=185.86.146.73&port=443&secret=ee311661b19195683251f8ab1e1e56fb5a6164732e78352e7275
+tg://proxy?server=proxy.glob.accuratenetworkchecker.ir&port=443&secret=ee56af8f05bdbbdbfa074c637d21f96e8e7777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=s01.neo-trading.org&port=443&secret=ee7391242569590e01416101927d38b565646e732d73686f702e7275
 tg://proxy?server=tt2.myrka.digital&port=8443&secret=ee888877776666555544443333222211117474322e6d79726b612e6469676974616c
 tg://proxy?server=petrichor.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
