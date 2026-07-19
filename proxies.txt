@@ -1,5 +1,5 @@
 # MTProto (4)
-# Updated: 2026-07-19 04:36 UTC
+# Updated: 2026-07-19 04:51 UTC
 
 tg://proxy?server=94.72.126.51&port=443&secret=ee76f45e60e143ee17f0f46416bf313e9e676f6f676c65617069732e636f6d
 tg://proxy?server=vk.nftauctiontg.online&port=8448&secret=ee82dd6ba1475a9793a9613364fee70e2f706574726f766963682e7275
