@@ -1,7 +1,7 @@
 # MTProto (4)
-# Updated: 2026-07-19 18:10 UTC
+# Updated: 2026-07-19 18:25 UTC
 
 tg://proxy?server=freeprx5_ir.thelion.skin&port=8443&secret=eebe92739708a318dccb5790ed3ca1c01c7777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=94.139.251.17&port=443&secret=ee63142fc4d9dc3b33e26019a5ec3e3a4574726176656c2e79616e6465782e7275
-tg://proxy?server=petrichor.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=154.219.116.96&port=2000&secret=ee769f8b07be1f592b59212dcad8663013617a7572652e6d6963726f736f66742e636f6d
+tg://proxy?server=petrichor.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
