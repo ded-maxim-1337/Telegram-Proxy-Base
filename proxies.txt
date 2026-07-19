@@ -1,6 +1,6 @@
 # MTProto (3)
-# Updated: 2026-07-19 08:51 UTC
+# Updated: 2026-07-19 09:06 UTC
 
-tg://proxy?server=eerie.proxytales.life&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=185.86.146.73&port=443&secret=ee311661b19195683251f8ab1e1e56fb5a6164732e78352e7275
+tg://proxy?server=eerie.proxytales.life&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=154.219.116.96&port=2000&secret=ee769f8b07be1f592b59212dcad8663013617a7572652e6d6963726f736f66742e636f6d
