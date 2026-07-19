@@ -1,5 +1,5 @@
 # MTProto (4)
-# Updated: 2026-07-19 12:36 UTC
+# Updated: 2026-07-19 12:51 UTC
 
 tg://proxy?server=freeprx5_ir.thelion.skin&port=8443&secret=eebe92739708a318dccb5790ed3ca1c01c7777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=172.65.108.204&port=22&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
