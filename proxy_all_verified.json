@@ -5,18 +5,18 @@
     "port": 8443,
     "secret": "eebe92739708a318dccb5790ed3ca1c01c7777772e636c6f7564666c6172652e636f6d",
     "link": "tg://proxy?server=freeprx5_ir.thelion.skin&port=8443&secret=eebe92739708a318dccb5790ed3ca1c01c7777772e636c6f7564666c6172652e636f6d",
-    "ping": 2.906,
+    "ping": 2.647,
     "domain": "www.cloudflare.com",
     "method": "MTProto_OK",
     "probe_resistant": true,
     "dpi_passed": true,
-    "score": 50,
+    "score": 51,
     "prev_score": 50,
-    "score_trend": "same",
-    "check_count": 83,
-    "uptime": 3,
-    "uptime_human": "45м",
-    "uptime_pct": 79.5
+    "score_trend": "up",
+    "check_count": 84,
+    "uptime": 4,
+    "uptime_human": "1ч",
+    "uptime_pct": 79.8
   },
   {
     "type": "mtproto",
@@ -29,13 +29,13 @@
     "method": "MTProto_OK",
     "probe_resistant": true,
     "dpi_passed": true,
-    "score": 35,
-    "prev_score": 40,
+    "score": 30,
+    "prev_score": 35,
     "score_trend": "down",
-    "check_count": 55,
+    "check_count": 56,
     "uptime": 0,
     "uptime_human": "0м",
-    "uptime_pct": 32.7
+    "uptime_pct": 32.1
   },
   {
     "type": "mtproto",
@@ -48,12 +48,12 @@
     "method": "MTProto_OK",
     "probe_resistant": false,
     "dpi_passed": true,
-    "score": 32,
-    "prev_score": 31,
-    "score_trend": "up",
-    "check_count": 63,
-    "uptime": 2,
-    "uptime_human": "30м",
-    "uptime_pct": 69.8
+    "score": 26,
+    "prev_score": 32,
+    "score_trend": "down",
+    "check_count": 64,
+    "uptime": 0,
+    "uptime_human": "0м",
+    "uptime_pct": 68.8
   }
 ]
