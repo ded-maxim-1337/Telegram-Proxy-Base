@@ -1,6 +1,6 @@
 tg://proxy?server=freeprx5_ir.thelion.skin&port=8443&secret=eebe92739708a318dccb5790ed3ca1c01c7777772e636c6f7564666c6172652e636f6d
-tg://proxy?server=172.65.97.7&port=22&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
 tg://proxy?server=193.104.198.0&port=443&secret=dd40aa72a0f79e4f3b2be25dd56e07de72
-tg://proxy?server=petrichor.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=172.65.97.7&port=22&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
 tg://proxy?server=tarn.proxytales.life&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=petrichor.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=154.219.116.178&port=2000&secret=ee4d19f7af3f7f6132b3413c15e75e62d3617a7572652e6d6963726f736f66742e636f6d
