@@ -1,6 +1,5 @@
-tg://proxy?server=sisu.proxytales.life&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=love.roseprox.xyz&port=8443&secret=eeb05af14b271160a0f2d5e3bf6317204b7777772e636c6f7564666c6172652e636f6d
+tg://proxy?server=sisu.proxytales.life&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=94.72.107.69&port=443&secret=ee4e7e3c97c9fc442cacb935955277ba29676f6f676c65617069732e636f6d
 tg://proxy?server=161.97.169.231&port=443&secret=eecfcd09956992b6d4dd0bf6aa2a8f63cd676f6f676c65617069732e636f6d
-tg://proxy?server=s010.neo-trading.org&port=443&secret=ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275
 tg://proxy?server=185.155.235.208&port=2000&secret=eed81a2ae56bd293c9124d2c0e34b5f343617a7572652e6d6963726f736f66742e636f6d
