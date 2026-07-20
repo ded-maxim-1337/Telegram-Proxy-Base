@@ -7,7 +7,7 @@
 Автоматически обновляемый список проверенных **MTProto**-прокси для Telegram.
 Сбор из открытых источников, проверка доступности, probe resistance (Fake-TLS) и публикация.
 
-Обновлено: **2026-07-20 19:59 UTC** · **35** рабочих прокси
+Обновлено: **2026-07-20 20:14 UTC** · **8** рабочих прокси
 
 📋 Страница со списком: [https://ded-maxim-1337.github.io/Telegram-Proxy-Base/](https://ded-maxim-1337.github.io/Telegram-Proxy-Base/)  
 ➕ Добавить свой прокси: [https://rkn.dog/add](https://rkn.dog/add)
