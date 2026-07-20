@@ -1,5 +1,5 @@
 # MTProto (2)
-# Updated: 2026-07-20 09:59 UTC
+# Updated: 2026-07-20 10:14 UTC
 
 tg://proxy?server=love.roseprox.xyz&port=8443&secret=eeb05af14b271160a0f2d5e3bf6317204b7777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=94.72.107.69&port=443&secret=ee4e7e3c97c9fc442cacb935955277ba29676f6f676c65617069732e636f6d
