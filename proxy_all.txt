@@ -1,3 +1,2 @@
 tg://proxy?server=107.175.189.200&port=8447&secret=554b3dd4c9d6fbbe2101c12765bb4229
 tg://proxy?server=94.139.251.17&port=443&secret=ee63142fc4d9dc3b33e26019a5ec3e3a4574726176656c2e79616e6465782e7275
-tg://proxy?server=193.104.198.0&port=443&secret=dd40aa72a0f79e4f3b2be25dd56e07de72
