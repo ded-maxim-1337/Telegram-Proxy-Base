@@ -2,7 +2,6 @@ tg://proxy?server=193.104.198.0&port=443&secret=dd40aa72a0f79e4f3b2be25dd56e07de
 tg://proxy?server=107.175.189.200&port=8447&secret=554b3dd4c9d6fbbe2101c12765bb4229
 tg://proxy?server=phloe.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=syzygy.sosun4ik.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
-tg://proxy?server=154.219.116.178&port=2000&secret=ee4d19f7af3f7f6132b3413c15e75e62d3617a7572652e6d6963726f736f66742e636f6d
-tg://proxy?server=sisu.proxytales.life&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=aerie.sosun4ik.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=185.241.194.220&port=443&secret=eedcaae509a2455bbfc6165f1708fd5c586d61782e7275
+tg://proxy?server=154.219.116.178&port=2000&secret=ee4d19f7af3f7f6132b3413c15e75e62d3617a7572652e6d6963726f736f66742e636f6d
