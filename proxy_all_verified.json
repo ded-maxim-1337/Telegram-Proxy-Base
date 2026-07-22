@@ -5,18 +5,18 @@
     "port": 443,
     "secret": "ee74fbc2032e1adf7bb51bde2360eddf086d742e736d6172746169737570706f72742e7275",
     "link": "tg://proxy?server=mt.smartaisupport.ru&port=443&secret=ee74fbc2032e1adf7bb51bde2360eddf086d742e736d6172746169737570706f72742e7275",
-    "ping": 3.864,
+    "ping": 1.829,
     "domain": "mt.smartaisupport.ru",
     "method": "MTProto_OK",
     "probe_resistant": true,
     "dpi_passed": true,
-    "score": 84,
+    "score": 89,
     "prev_score": 84,
-    "score_trend": "same",
-    "check_count": 73,
-    "uptime": 27,
-    "uptime_human": "6ч 45м",
-    "uptime_pct": 79.5
+    "score_trend": "up",
+    "check_count": 74,
+    "uptime": 28,
+    "uptime_human": "7ч",
+    "uptime_pct": 79.7
   },
   {
     "type": "mtproto",
@@ -29,12 +29,12 @@
     "method": "MTProto_OK",
     "probe_resistant": true,
     "dpi_passed": true,
-    "score": 72,
-    "prev_score": 76,
+    "score": 65,
+    "prev_score": 72,
     "score_trend": "down",
-    "check_count": 60,
-    "uptime": 3,
-    "uptime_human": "45м",
-    "uptime_pct": 68.3
+    "check_count": 61,
+    "uptime": 0,
+    "uptime_human": "0м",
+    "uptime_pct": 67.2
   }
 ]
