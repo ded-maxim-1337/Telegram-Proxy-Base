@@ -1,9 +1,6 @@
-# MTProto (6)
-# Updated: 2026-07-22 11:49 UTC
+# MTProto (3)
+# Updated: 2026-07-22 12:04 UTC
 
 tg://proxy?server=mt.smartaisupport.ru&port=443&secret=ee74fbc2032e1adf7bb51bde2360eddf086d742e736d6172746169737570706f72742e7275
-tg://proxy?server=yeh.topbelka.ru&port=443&secret=ee050c8f82b0877cccd23a08c65f062b987275747562652e7275
 tg://proxy?server=t4.myrka.digital&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c
-tg://proxy?server=tge0a4dd98.koshkaproxy.shop&port=443&secret=ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70
-tg://proxy?server=c46eadf5.koshkaproxy.shop&port=443&secret=ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70
-tg://proxy?server=mtp2.hlebushek.com&port=443&secret=ee8263f1fdfbfa0629c67c40d208806873706574726f766963682e7275
+tg://proxy?server=yeh.topbelka.ru&port=443&secret=ee050c8f82b0877cccd23a08c65f062b987275747562652e7275
