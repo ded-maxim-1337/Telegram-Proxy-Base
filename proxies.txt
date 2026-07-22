@@ -1,14 +1,13 @@
-# MTProto (17)
-# Updated: 2026-07-22 02:38 UTC
+# MTProto (16)
+# Updated: 2026-07-22 02:49 UTC
 
-tg://proxy?server=y.vkgosuslugi.ru&port=443&secret=ee4e82cdf7c4c847b33f27c5d8f2c4053d77622e7275
 tg://proxy?server=s6.postpulse.space&port=443&secret=ee179deb3806ddd388988092081a52ad766164332e617269786f2e73686f70
 tg://proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275
-tg://proxy?server=yastatic.co.uk&port=443&secret=ee4d529b445ca1cfa716b340ef99877570727a796d68702e79617374617469632e6e6574
-tg://proxy?server=ad3.arixo.shop&port=443&secret=ee722fba8d97b9027b5fc4deb041b290cb6164332e617269786f2e73686f70
-tg://proxy?server=t4.myrka.digital&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c
-tg://proxy?server=s2.postpulse.space&port=443&secret=ee263bf8f7de3c2b04aa1c008ab21e4a566164322e617269786f2e73686f70
 tg://proxy?server=ad2.arixo.shop&port=443&secret=eed09b88cbbd4e744865b890e5a0bd26876164322e617269786f2e73686f70
+tg://proxy?server=yastatic.co.uk&port=443&secret=ee4d529b445ca1cfa716b340ef99877570727a796d68702e79617374617469632e6e6574
+tg://proxy?server=y.vkgosuslugi.ru&port=443&secret=ee4e82cdf7c4c847b33f27c5d8f2c4053d77622e7275
+tg://proxy?server=ad3.arixo.shop&port=443&secret=ee722fba8d97b9027b5fc4deb041b290cb6164332e617269786f2e73686f70
+tg://proxy?server=s2.postpulse.space&port=443&secret=ee263bf8f7de3c2b04aa1c008ab21e4a566164322e617269786f2e73686f70
 tg://proxy?server=yeh.topbelka.ru&port=443&secret=ee050c8f82b0877cccd23a08c65f062b987275747562652e7275
 tg://proxy?server=jarko.myrka.digital&port=443&secret=ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c
 tg://proxy?server=mt.smartaisupport.ru&port=443&secret=ee74fbc2032e1adf7bb51bde2360eddf086d742e736d6172746169737570706f72742e7275
