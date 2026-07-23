@@ -5,17 +5,17 @@
     "port": 443,
     "secret": "ee504f0a16782bd445b86405861fd00d88706f636874612e7275",
     "link": "tg://proxy?server=83.222.17.252&port=443&secret=ee504f0a16782bd445b86405861fd00d88706f636874612e7275",
-    "ping": 2.079,
+    "ping": 1.894,
     "domain": "pochta.ru",
     "method": "MTProto_OK",
     "probe_resistant": true,
     "dpi_passed": true,
-    "score": 83,
-    "prev_score": 87,
-    "score_trend": "down",
-    "check_count": 6,
-    "uptime": 6,
-    "uptime_human": "1ч 30м",
+    "score": 88,
+    "prev_score": 83,
+    "score_trend": "up",
+    "check_count": 7,
+    "uptime": 7,
+    "uptime_human": "1ч 45м",
     "uptime_pct": 100.0
   },
   {
@@ -29,13 +29,13 @@
     "method": "MTProto_OK",
     "probe_resistant": true,
     "dpi_passed": true,
-    "score": 81,
-    "prev_score": 80,
-    "score_trend": "up",
-    "check_count": 61,
-    "uptime": 15,
-    "uptime_human": "3ч 45м",
-    "uptime_pct": 78.7
+    "score": 68,
+    "prev_score": 81,
+    "score_trend": "down",
+    "check_count": 62,
+    "uptime": 0,
+    "uptime_human": "0м",
+    "uptime_pct": 77.4
   },
   {
     "type": "mtproto",
@@ -48,13 +48,13 @@
     "method": "MTProto_OK",
     "probe_resistant": true,
     "dpi_passed": true,
-    "score": 69,
-    "prev_score": 74,
+    "score": 63,
+    "prev_score": 69,
     "score_trend": "down",
-    "check_count": 82,
+    "check_count": 83,
     "uptime": 0,
     "uptime_human": "0м",
-    "uptime_pct": 62.2
+    "uptime_pct": 61.4
   },
   {
     "type": "mtproto",
@@ -67,13 +67,13 @@
     "method": "MTProto_OK",
     "probe_resistant": true,
     "dpi_passed": true,
-    "score": 64,
-    "prev_score": 69,
+    "score": 59,
+    "prev_score": 64,
     "score_trend": "down",
-    "check_count": 70,
+    "check_count": 71,
     "uptime": 0,
     "uptime_human": "0м",
-    "uptime_pct": 62.9
+    "uptime_pct": 62.0
   },
   {
     "type": "mtproto",
@@ -86,13 +86,13 @@
     "method": "MTProto_OK",
     "probe_resistant": true,
     "dpi_passed": true,
-    "score": 59,
-    "prev_score": 66,
+    "score": 52,
+    "prev_score": 59,
     "score_trend": "down",
-    "check_count": 11,
+    "check_count": 12,
     "uptime": 0,
     "uptime_human": "0м",
-    "uptime_pct": 45.5
+    "uptime_pct": 41.7
   },
   {
     "type": "mtproto",
@@ -105,12 +105,12 @@
     "method": "MTProto_OK",
     "probe_resistant": false,
     "dpi_passed": true,
-    "score": 49,
-    "prev_score": 47,
-    "score_trend": "up",
-    "check_count": 33,
-    "uptime": 2,
-    "uptime_human": "30м",
-    "uptime_pct": 42.4
+    "score": 42,
+    "prev_score": 49,
+    "score_trend": "down",
+    "check_count": 34,
+    "uptime": 0,
+    "uptime_human": "0м",
+    "uptime_pct": 41.2
   }
 ]
