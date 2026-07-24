@@ -1,8 +1,8 @@
 # MTProto (5)
-# Updated: 2026-07-24 18:32 UTC
+# Updated: 2026-07-24 18:47 UTC
 
 tg://proxy?server=85.117.235.55&port=443&secret=eea2afbe51c8096823ac0c8a861c2bcef06f7a6f6e2e7275
+tg://proxy?server=cnl-ya-kn.kooleknetwork.site&port=443&secret=ee1f16a1dd1acd2ec9418669344c198b706e64722e6465
 tg://proxy?server=t4.myrka.digital&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c
 tg://proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275
-tg://proxy?server=cnl-ya-kn.kooleknetwork.site&port=443&secret=ee1f16a1dd1acd2ec9418669344c198b706e64722e6465
 tg://proxy?server=mtp2.hlebushek.com&port=443&secret=ee8263f1fdfbfa0629c67c40d208806873706574726f766963682e7275
