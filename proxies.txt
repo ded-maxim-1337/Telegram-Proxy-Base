@@ -1,5 +1,5 @@
 # MTProto (4)
-# Updated: 2026-07-24 03:46 UTC
+# Updated: 2026-07-24 04:02 UTC
 
 tg://proxy?server=cnl-ya-kn.kooleknetwork.site&port=443&secret=ee1f16a1dd1acd2ec9418669344c198b706e64722e6465
 tg://proxy?server=t4.myrka.digital&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c
