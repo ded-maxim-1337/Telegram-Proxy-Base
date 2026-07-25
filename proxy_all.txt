@@ -1,11 +1,10 @@
 tg://proxy?server=159.194.213.147&port=443&secret=ee6626eceee2223f5b7b0cc29b3182a6fe6d2e6265626f6f2e7275
-tg://proxy?server=yeh.topbelka.ru&port=443&secret=ee050c8f82b0877cccd23a08c65f062b987275747562652e7275
 tg://proxy?server=s4.postpulse.space&port=443&secret=ee4ed06711abba996600b11cd356a7674c6164312e617269786f2e73686f70
-tg://proxy?server=t4.myrka.digital&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c
+tg://proxy?server=yeh.topbelka.ru&port=443&secret=ee050c8f82b0877cccd23a08c65f062b987275747562652e7275
+tg://proxy?server=jarko.myrka.digital&port=443&secret=dd04daa35f7150d1d16c43f270c2683108
 tg://proxy?server=max.ru.rightarion.ru&port=443&secret=eec1e84a7f2d9b3056eaf17c4d8b62f9036d61782e7275
 tg://proxy?server=media2.happtg.org&port=443&secret=ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275
-tg://proxy?server=jarko.myrka.digital&port=443&secret=dd04daa35f7150d1d16c43f270c2683108
+tg://proxy?server=zilch.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=mtp2.hlebushek.com&port=443&secret=ee8263f1fdfbfa0629c67c40d208806873706574726f766963682e7275
 tg://proxy?server=petrichor.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=s010.neo-trading.org&port=443&secret=ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275
-tg://proxy?server=zilch.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
