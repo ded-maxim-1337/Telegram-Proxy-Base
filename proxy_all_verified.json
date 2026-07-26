@@ -10,13 +10,13 @@
     "method": "MTProto_OK",
     "probe_resistant": true,
     "dpi_passed": true,
-    "score": 94,
+    "score": 79,
     "prev_score": 94,
-    "score_trend": "same",
-    "check_count": 141,
-    "uptime": 27,
-    "uptime_human": "6ч 45м",
-    "uptime_pct": 96.5
+    "score_trend": "down",
+    "check_count": 142,
+    "uptime": 0,
+    "uptime_human": "0м",
+    "uptime_pct": 95.8
   },
   {
     "type": "mtproto",
@@ -24,17 +24,17 @@
     "port": 443,
     "secret": "ee4ed06711abba996600b11cd356a7674c6164312e617269786f2e73686f70",
     "link": "tg://proxy?server=s4.postpulse.space&port=443&secret=ee4ed06711abba996600b11cd356a7674c6164312e617269786f2e73686f70",
-    "ping": 1.955,
+    "ping": 3.494,
     "domain": "ad1.arixo.shop",
     "method": "MTProto_OK",
     "probe_resistant": true,
     "dpi_passed": true,
-    "score": 80,
-    "prev_score": 75,
-    "score_trend": "up",
-    "check_count": 206,
-    "uptime": 5,
-    "uptime_human": "1ч 15м",
-    "uptime_pct": 75.7
+    "score": 76,
+    "prev_score": 80,
+    "score_trend": "down",
+    "check_count": 207,
+    "uptime": 6,
+    "uptime_human": "1ч 30м",
+    "uptime_pct": 75.8
   }
 ]
