@@ -5,7 +5,7 @@
     "port": 443,
     "secret": "ee6626eceee2223f5b7b0cc29b3182a6fe6d2e6265626f6f2e7275",
     "link": "tg://proxy?server=159.194.213.147&port=443&secret=ee6626eceee2223f5b7b0cc29b3182a6fe6d2e6265626f6f2e7275",
-    "ping": 1.921,
+    "ping": 1.486,
     "domain": "m.beboo.ru",
     "method": "MTProto_OK",
     "probe_resistant": true,
@@ -13,10 +13,10 @@
     "score": 94,
     "prev_score": 94,
     "score_trend": "same",
-    "check_count": 80,
-    "uptime": 66,
-    "uptime_human": "16ч 30м",
-    "uptime_pct": 96.2
+    "check_count": 81,
+    "uptime": 67,
+    "uptime_human": "16ч 45м",
+    "uptime_pct": 96.3
   },
   {
     "type": "mtproto",
@@ -29,13 +29,13 @@
     "method": "MTProto_OK",
     "probe_resistant": true,
     "dpi_passed": true,
-    "score": 79,
-    "prev_score": 78,
-    "score_trend": "up",
-    "check_count": 145,
-    "uptime": 4,
-    "uptime_human": "1ч",
-    "uptime_pct": 73.8
+    "score": 72,
+    "prev_score": 79,
+    "score_trend": "down",
+    "check_count": 146,
+    "uptime": 0,
+    "uptime_human": "0м",
+    "uptime_pct": 73.3
   },
   {
     "type": "mtproto",
@@ -43,17 +43,17 @@
     "port": 443,
     "secret": "ee8263f1fdfbfa0629c67c40d208806873706574726f766963682e7275",
     "link": "tg://proxy?server=mtp2.hlebushek.com&port=443&secret=ee8263f1fdfbfa0629c67c40d208806873706574726f766963682e7275",
-    "ping": 1.869,
+    "ping": 1.984,
     "domain": "petrovich.ru",
     "method": "MTProto_OK",
     "probe_resistant": true,
     "dpi_passed": true,
     "score": 48,
-    "prev_score": 47,
-    "score_trend": "up",
-    "check_count": 157,
-    "uptime": 6,
-    "uptime_human": "1ч 30м",
-    "uptime_pct": 49.0
+    "prev_score": 48,
+    "score_trend": "same",
+    "check_count": 158,
+    "uptime": 7,
+    "uptime_human": "1ч 45м",
+    "uptime_pct": 49.4
   }
 ]
