@@ -5,17 +5,17 @@
     "port": 443,
     "secret": "ee6626eceee2223f5b7b0cc29b3182a6fe6d2e6265626f6f2e7275",
     "link": "tg://proxy?server=159.194.213.147&port=443&secret=ee6626eceee2223f5b7b0cc29b3182a6fe6d2e6265626f6f2e7275",
-    "ping": 1.467,
+    "ping": 1.778,
     "domain": "m.beboo.ru",
     "method": "MTProto_OK",
     "probe_resistant": true,
     "dpi_passed": true,
     "score": 85,
-    "prev_score": 84,
-    "score_trend": "up",
-    "check_count": 116,
-    "uptime": 2,
-    "uptime_human": "30м",
+    "prev_score": 85,
+    "score_trend": "same",
+    "check_count": 117,
+    "uptime": 3,
+    "uptime_human": "45м",
     "uptime_pct": 95.7
   },
   {
@@ -29,12 +29,12 @@
     "method": "MTProto_OK",
     "probe_resistant": true,
     "dpi_passed": true,
-    "score": 82,
-    "prev_score": 76,
-    "score_trend": "up",
-    "check_count": 181,
-    "uptime": 8,
-    "uptime_human": "2ч",
-    "uptime_pct": 76.8
+    "score": 73,
+    "prev_score": 82,
+    "score_trend": "down",
+    "check_count": 182,
+    "uptime": 0,
+    "uptime_human": "0м",
+    "uptime_pct": 76.4
   }
 ]
