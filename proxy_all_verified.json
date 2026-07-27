@@ -5,17 +5,17 @@
     "port": 443,
     "secret": "ee4ed06711abba996600b11cd356a7674c6164312e617269786f2e73686f70",
     "link": "tg://proxy?server=s4.postpulse.space&port=443&secret=ee4ed06711abba996600b11cd356a7674c6164312e617269786f2e73686f70",
-    "ping": 5.096,
+    "ping": 2.621,
     "domain": "ad1.arixo.shop",
     "method": "MTProto_OK",
     "probe_resistant": true,
     "dpi_passed": true,
-    "score": 74,
-    "prev_score": 69,
+    "score": 75,
+    "prev_score": 74,
     "score_trend": "up",
-    "check_count": 277,
-    "uptime": 1,
-    "uptime_human": "15м",
+    "check_count": 278,
+    "uptime": 2,
+    "uptime_human": "30м",
     "uptime_pct": 79.1
   }
 ]
