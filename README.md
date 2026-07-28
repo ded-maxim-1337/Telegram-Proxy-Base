@@ -7,7 +7,7 @@
 Автоматически обновляемый список проверенных **MTProto**-прокси для Telegram.
 Сбор из открытых источников, проверка доступности, probe resistance (Fake-TLS) и публикация.
 
-Обновлено: **2026-07-28 21:47 UTC** · **9** рабочих прокси
+Обновлено: **2026-07-28 21:49 UTC** · **9** рабочих прокси
 
 📋 Страница со списком: [https://ded-maxim-1337.github.io/Telegram-Proxy-Base/](https://ded-maxim-1337.github.io/Telegram-Proxy-Base/)  
 ➕ Добавить свой прокси: [https://rkn.dog/add](https://rkn.dog/add)
@@ -48,8 +48,8 @@
 
 | Сервис | Ссылка |
 | --- | --- |
-| AWX VPN — бот | [https://t.me/awxvpn_bot?start=dog](https://t.me/awxvpn_bot?start=dog) |
-| AWX VPN — сайт | [https://awxweb.site?campaign=dog](https://awxweb.site?campaign=dog) |
+| <img src="https://ded-maxim-1337.github.io/Telegram-Proxy-Base/awx-vpn.png" alt="" width="16" height="16"> AWX VPN — бот | [https://t.me/awxvpn_bot?start=dog](https://t.me/awxvpn_bot?start=dog) |
+| <img src="https://ded-maxim-1337.github.io/Telegram-Proxy-Base/awx-vpn.png" alt="" width="16" height="16"> AWX VPN — сайт | [https://awxweb.site?campaign=dog](https://awxweb.site?campaign=dog) |
 
 ---
 
