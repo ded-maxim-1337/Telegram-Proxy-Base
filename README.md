@@ -7,7 +7,7 @@
 Автоматически обновляемый список проверенных **MTProto**-прокси для Telegram.
 Сбор из открытых источников, проверка доступности, probe resistance (Fake-TLS) и публикация.
 
-Обновлено: **2026-07-28 21:43 UTC** · **9** рабочих прокси
+Обновлено: **2026-07-28 21:47 UTC** · **9** рабочих прокси
 
 📋 Страница со списком: [https://ded-maxim-1337.github.io/Telegram-Proxy-Base/](https://ded-maxim-1337.github.io/Telegram-Proxy-Base/)  
 ➕ Добавить свой прокси: [https://rkn.dog/add](https://rkn.dog/add)
@@ -30,7 +30,7 @@
 
 | Проект | Описание | Ссылка |
 | --- | --- | --- |
-| ✈️ Telegram-канал | Обновления списков и новости | [Канал](https://t.me/tg_proksi) |
+| ✈️ Telegram-канал | Обновления списков и новости | [Канал](https://t.me/proxi_teleg) |
 | 🌐 Сайт проекта | Документация и полный список | [Сайт](https://rkn.dog) |
 | ➕ Добавить прокси | Отправить свой MTProxy на проверку | [Добавить](https://rkn.dog/add) |
 | 🤖 [Бот проекта](https://t.me/tgproxyz_bot) | Автоматическая выдача прокси и ключей | [Bot](https://t.me/tgproxyz_bot) |
@@ -43,13 +43,13 @@
 Прокси работают **только для Telegram**. Для полноценного доступа в интернет — **AWX VPN**:
 
 <p align="center">
-  <a href="https://t.me/awxvpn_bot"><img src="https://ded-maxim-1337.github.io/Telegram-Proxy-Base/awx-vpn.png" alt="AWX VPN" width="72"></a>
+  <a href="https://t.me/awxvpn_bot?start=dog"><img src="https://ded-maxim-1337.github.io/Telegram-Proxy-Base/awx-vpn.png" alt="AWX VPN" width="72"></a>
 </p>
 
 | Сервис | Ссылка |
 | --- | --- |
-| AWX VPN — бот | [https://t.me/awxvpn_bot](https://t.me/awxvpn_bot) |
-| AWX VPN — сайт | [https://awxweb.site](https://awxweb.site) |
+| AWX VPN — бот | [https://t.me/awxvpn_bot?start=dog](https://t.me/awxvpn_bot?start=dog) |
+| AWX VPN — сайт | [https://awxweb.site?campaign=dog](https://awxweb.site?campaign=dog) |
 
 ---
 
