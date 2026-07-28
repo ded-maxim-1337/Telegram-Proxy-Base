@@ -1,12 +1,12 @@
 # MTProto (9)
-# Updated: 2026-07-28 13:38 UTC
+# Updated: 2026-07-28 13:53 UTC
 
 tg://proxy?server=live.rkn.dog&port=443&secret=ee94c2dbe7595fbbb9548653e09521ca0a6c6976652e726b6e2e646f67
 tg://proxy?server=cdnapi.fiban.cloud&port=443&secret=ee1c9bca94004b75e5f901b1ca77a23f9363646e6170692e666962616e2e636c6f7564
 tg://proxy?server=de2t.aqil.ru&port=8443&secret=ee89d20da0e96bc1e79bc23d07d8ed7885706574726f766963682e7275
 tg://proxy?server=barry1nd.flashlinks.top&port=443&secret=dde795de74c2a3cf0623d90927e14b7072
 tg://proxy?server=tg-proxy-2.potokvpn.com&port=993&secret=080073892babef5b062caf40c39e8251
+tg://proxy?server=murka.click&port=443&secret=dd80229c70b86eb8ec094dae3d69c00914
 tg://proxy?server=yeh.topbelka.ru&port=443&secret=ee050c8f82b0877cccd23a08c65f062b987275747562652e7275
 tg://proxy?server=ad6.arixo.shop&port=443&secret=ee0655739ff0a111810d8529120d2071a66164332e617269786f2e73686f70
-tg://proxy?server=murka.click&port=443&secret=dd80229c70b86eb8ec094dae3d69c00914
 tg://proxy?server=phloe.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
