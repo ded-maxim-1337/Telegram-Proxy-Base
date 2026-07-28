@@ -1,13 +1,13 @@
 # MTProto (10)
-# Updated: 2026-07-28 18:01 UTC
+# Updated: 2026-07-28 18:16 UTC
 
 tg://proxy?server=185.207.0.19&port=443&secret=ee75be223aa6749ccced41da592e6f2f9c706574726f766963682e7275
 tg://proxy?server=144.31.217.82&port=443&secret=eee94b9d30521f6275b15a5b274f763b2a6d2e6265626f6f2e7275
 tg://proxy?server=cdnapi.fiban.cloud&port=443&secret=ee1c9bca94004b75e5f901b1ca77a23f9363646e6170692e666962616e2e636c6f7564
 tg://proxy?server=barry1nd.flashlinks.top&port=443&secret=dde795de74c2a3cf0623d90927e14b7072
-tg://proxy?server=tg-proxy-2.potokvpn.com&port=993&secret=080073892babef5b062caf40c39e8251
-tg://proxy?server=live.rkn.dog&port=443&secret=ee94c2dbe7595fbbb9548653e09521ca0a6c6976652e726b6e2e646f67
 tg://proxy?server=tg2.foxybest.online&port=443&secret=ee4b5cbc77f04fc130de8e89cedeea51416d61736b322e666f7879626573742e6f6e6c696e65
 tg://proxy?server=free.vnespiska.org&port=9443&secret=ee5b1977cd65b2b90aeea9a53a8d1120867461736b666c6f772e65676f722d6465762e7275
 tg://proxy?server=murka.click&port=443&secret=dd80229c70b86eb8ec094dae3d69c00914
+tg://proxy?server=live.rkn.dog&port=443&secret=ee94c2dbe7595fbbb9548653e09521ca0a6c6976652e726b6e2e646f67
 tg://proxy?server=max.ru.rightarion.ru&port=443&secret=eea8f35c1d7e9042b6c4d19e2fb7630a586d61782e7275
+tg://proxy?server=tg-proxy-2.potokvpn.com&port=993&secret=080073892babef5b062caf40c39e8251
