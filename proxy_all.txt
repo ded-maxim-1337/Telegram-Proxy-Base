@@ -1,4 +1,3 @@
-tg://proxy?server=live.rkn.dog&port=443&secret=ee94c2dbe7595fbbb9548653e09521ca0a6c6976652e726b6e2e646f67
 tg://proxy?server=185.207.0.19&port=443&secret=ee75be223aa6749ccced41da592e6f2f9c706574726f766963682e7275
 tg://proxy?server=144.31.217.82&port=443&secret=eee94b9d30521f6275b15a5b274f763b2a6d2e6265626f6f2e7275
 tg://proxy?server=cdnapi.fiban.cloud&port=443&secret=ee1c9bca94004b75e5f901b1ca77a23f9363646e6170692e666962616e2e636c6f7564
