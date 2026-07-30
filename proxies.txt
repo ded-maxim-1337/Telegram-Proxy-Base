@@ -1,5 +1,5 @@
 # MTProto (4)
-# Updated: 2026-07-30 23:44 UTC
+# Updated: 2026-07-30 23:59 UTC
 
 tg://proxy?server=free.vnespiska.org&port=9443&secret=ee5b1977cd65b2b90aeea9a53a8d1120867461736b666c6f772e65676f722d6465762e7275
 tg://proxy?server=mt.smartaisupport.ru&port=443&secret=ee74fbc2032e1adf7bb51bde2360eddf086d742e736d6172746169737570706f72742e7275
