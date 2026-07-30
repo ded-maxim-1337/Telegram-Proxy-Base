@@ -1,5 +1,5 @@
 # MTProto (5)
-# Updated: 2026-07-30 01:17 UTC
+# Updated: 2026-07-30 01:45 UTC
 
 tg://proxy?server=185.207.0.19&port=443&secret=ee75be223aa6749ccced41da592e6f2f9c706574726f766963682e7275
 tg://proxy?server=cdnapi.fiban.cloud&port=443&secret=ee1c9bca94004b75e5f901b1ca77a23f9363646e6170692e666962616e2e636c6f7564
