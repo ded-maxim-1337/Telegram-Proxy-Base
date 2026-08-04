@@ -1,11 +1,9 @@
-# MTProto (8)
-# Updated: 2026-08-04 00:38 UTC
+# MTProto (6)
+# Updated: 2026-08-04 00:53 UTC
 
 tg://proxy?server=tmr.baboon.digital&port=443&secret=ee92420f5452464d6cc27a35e5dc90b124706574726f766963682e7275
 tg://proxy?server=ad2.fluxvpnguard.ru&port=443&secret=ee4f43452511fc19da8a32ad7a3f0530e46164322e666c757876706e67756172642e7275
 tg://proxy?server=37.139.34.40&port=443&secret=dd04daa35f7150d1d16c43f270c2683108
-tg://proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
 tg://proxy?server=94.139.246.32&port=443&secret=dd04daa35f7150d1d16c43f270c2683108
 tg://proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f685d0b7d0ba70726f78792e6c6f646b69726d6d2e7275
 tg://proxy?server=185.86.146.73&port=443&secret=ee311661b19195683251f8ab1e1e56fb5a6164732e78352e7275
-tg://proxy?server=petrichor.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
