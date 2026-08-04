@@ -1,5 +1,5 @@
 # MTProto (6)
-# Updated: 2026-08-04 02:08 UTC
+# Updated: 2026-08-04 02:23 UTC
 
 tg://proxy?server=tmr.baboon.digital&port=443&secret=ee92420f5452464d6cc27a35e5dc90b124706574726f766963682e7275
 tg://proxy?server=ad2.fluxvpnguard.ru&port=443&secret=ee4f43452511fc19da8a32ad7a3f0530e46164322e666c757876706e67756172642e7275
