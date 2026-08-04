@@ -1,10 +1,7 @@
+tg://proxy?server=fast.tg.toggle.org&port=443&secret=ee4ef574bb2e39f96833252cdfa792eee4676f6f676c652e636f6d
 tg://proxy?server=proxy.realslotsvpn.com&port=8443&secret=ee249ff03ce9d855dcbadbbd17e7fba3a879616e6465782e7275
 tg://proxy?server=ad4.arixo.shop&port=443&secret=eec699329f2f8c2d33cd1e1a9f10e5d32d6164312e617269786f2e73686f70
-tg://proxy?server=fast.tg.toggle.org&port=443&secret=ee4ef574bb2e39f96833252cdfa792eee4676f6f676c652e636f6d
-tg://proxy?server=fast.its-work.ru&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
 tg://proxy?server=37.139.34.40&port=443&secret=dd04daa35f7150d1d16c43f270c2683108
-tg://proxy?server=185.86.144.66&port=443&secret=eec1e84a7f2d9b3056eaf17c4d8b62f9036d61782e7275
-tg://proxy?server=media3.happtg.org&port=443&secret=ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275
-tg://proxy?server=94.139.246.32&port=443&secret=dd04daa35f7150d1d16c43f270c2683108
+tg://proxy?server=fast.its-work.ru&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
 tg://proxy?server=y.vkgosuslugi.ru&port=443&secret=ee4e82cdf7c4c847b33f27c5d8f2c4053d77622e7275
 tg://proxy?server=phloe.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
