@@ -1,6 +1,5 @@
-# MTProto (3)
-# Updated: 2026-08-04 20:47 UTC
+# MTProto (2)
+# Updated: 2026-08-04 21:02 UTC
 
 tg://proxy?server=link.telehelp.top&port=443&secret=ee243af7382f8853a59265ac6dd3aa39a26c696e6b2e74656c6568656c702e746f70
-tg://proxy?server=tmr.baboon.digital&port=443&secret=ee4d82b6fa1930c7e58a6d21f9bc4503e1706574726f766963682e7275
 tg://proxy?server=37.139.34.40&port=443&secret=dd04daa35f7150d1d16c43f270c2683108
