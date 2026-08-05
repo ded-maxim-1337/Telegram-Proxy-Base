@@ -1,9 +1,6 @@
-tg://proxy?server=proxy.realslotsvpn.com&port=8443&secret=ee249ff03ce9d855dcbadbbd17e7fba3a879616e6465782e7275
 tg://proxy?server=tigr.baboon.digital&port=443&secret=ee12bf2841d704aec0a59c53764e2dcd99706574726f766963682e7275
 tg://proxy?server=37.139.35.176&port=8443&secret=ee888877776666555544443333222211117474322e6d79726b612e6469676974616c
+tg://proxy?server=proxy.realslotsvpn.com&port=8443&secret=ee249ff03ce9d855dcbadbbd17e7fba3a879616e6465782e7275
 tg://proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
-tg://proxy?server=94.139.246.32&port=443&secret=dd04daa35f7150d1d16c43f270c2683108
 tg://proxy?server=s3.postpulse.space&port=443&secret=eede09f27f5ed0877907c31d53a7aca5526164332e617269786f2e73686f70
-tg://proxy?server=37.139.34.40&port=443&secret=dd04daa35f7150d1d16c43f270c2683108
-tg://proxy?server=212.45.30.31&port=9443&secret=ee931c24423b548b9ec00f022ac98c977164697470726f78792e6d6f732e7275
-tg://proxy?server=aerie.sosun4ik.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=94.139.246.32&port=443&secret=dd04daa35f7150d1d16c43f270c2683108
