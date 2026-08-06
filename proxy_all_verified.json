@@ -4,7 +4,7 @@
     "host": "rdap.buzz",
     "port": 443,
     "link": "tg://proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275",
-    "ping": 2.145,
+    "ping": 2.232,
     "domain": "cloud.mail.ru",
     "probe_resistant": true,
     "method": "MTProto_OK",
@@ -12,9 +12,9 @@
     "prev_score": 87,
     "score_trend": "same",
     "score_penalty": 0,
-    "check_count": 163,
-    "uptime": 71,
-    "uptime_human": "17ч 45м",
+    "check_count": 164,
+    "uptime": 72,
+    "uptime_human": "18ч",
     "uptime_pct": 90.2,
     "secret": "ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275"
   }
