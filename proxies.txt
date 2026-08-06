@@ -1,5 +1,5 @@
 # MTProto (2)
-# Updated: 2026-08-06 02:59 UTC
+# Updated: 2026-08-06 03:14 UTC
 
-tg://proxy?server=tigr.baboon.digital&port=443&secret=ee12bf2841d704aec0a59c53764e2dcd99706574726f766963682e7275
 tg://proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
+tg://proxy?server=tigr.baboon.digital&port=443&secret=ee12bf2841d704aec0a59c53764e2dcd99706574726f766963682e7275
