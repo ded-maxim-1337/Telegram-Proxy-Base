@@ -1,5 +1,5 @@
 # MTProto (2)
-# Updated: 2026-08-07 19:21 UTC
+# Updated: 2026-08-07 19:36 UTC
 
 tg://proxy?server=proxy.realslotsvpn.com&port=8443&secret=ee249ff03ce9d855dcbadbbd17e7fba3a879616e6465782e7275
 tg://proxy?server=api.rekushka.eu.cc&port=443&secret=ee95474049f0bfbbe2711a4caa087df00579616e6465782e7275
