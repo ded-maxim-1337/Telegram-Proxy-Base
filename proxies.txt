@@ -1,10 +1,7 @@
-# MTProto (7)
-# Updated: 2026-08-07 11:08 UTC
+# MTProto (4)
+# Updated: 2026-08-07 11:23 UTC
 
 tg://proxy?server=api.rekushka.eu.cc&port=443&secret=ee95474049f0bfbbe2711a4caa087df00579616e6465782e7275
 tg://proxy?server=proxy.realslotsvpn.com&port=8443&secret=ee249ff03ce9d855dcbadbbd17e7fba3a879616e6465782e7275
-tg://proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
-tg://proxy?server=filemanager.ddproxy.xyz&port=443&secret=ee29402436463b3d7fc8cec382defd5c0666696c656d616e616765722e646470726f78792e78797a
-tg://proxy?server=media2.happtg.org&port=443&secret=ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275
 tg://proxy?server=s010.neo-trading.org&port=8443&secret=ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275
 tg://proxy?server=adieu.shmelproxy.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
