@@ -1,3 +1,3 @@
 tg://proxy?server=cdn77.fiban.cloud&port=443&secret=ee3a0e53b1696efd2d50b1981430310d4963646e37372e666962616e2e636c6f7564
-tg://proxy?server=n.mtfa.cc&port=443&secret=ee5c4790a1051c8881b97cc3abe1955b0a6e2e6d7466612e6363
 tg://proxy?server=cdn.telehelp.top&port=443&secret=ee4f3308bc6f67badccc790bf30f15f3de63646e2e74656c6568656c702e746f70
+tg://proxy?server=n.mtfa.cc&port=443&secret=ee5c4790a1051c8881b97cc3abe1955b0a6e2e6d7466612e6363
