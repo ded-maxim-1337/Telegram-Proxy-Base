@@ -1,5 +1,5 @@
-tg://proxy?server=api.leeroy.uz&port=443&secret=eec8403a49bcccc5ca137213148e3c88aa6170692d706c75672e6c6565726f792e757a
 tg://proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
-tg://proxy?server=proxy.realslotsvpn.com&port=8443&secret=ee249ff03ce9d855dcbadbbd17e7fba3a879616e6465782e7275
 tg://proxy?server=api.rekushka.eu.cc&port=443&secret=ee95474049f0bfbbe2711a4caa087df00579616e6465782e7275
+tg://proxy?server=api.leeroy.uz&port=443&secret=eec8403a49bcccc5ca137213148e3c88aa6170692d706c75672e6c6565726f792e757a
+tg://proxy?server=proxy.realslotsvpn.com&port=8443&secret=ee249ff03ce9d855dcbadbbd17e7fba3a879616e6465782e7275
 tg://proxy?server=212.45.30.31&port=9443&secret=ee931c24423b548b9ec00f022ac98c977164697470726f78792e6d6f732e7275
