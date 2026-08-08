@@ -1,23 +1,13 @@
-# MTProto (20)
-# Updated: 2026-08-08 18:57 UTC
+# MTProto (10)
+# Updated: 2026-08-08 19:12 UTC
 
-tg://proxy?server=n.mtfa.cc&port=443&secret=ee5c4790a1051c8881b97cc3abe1955b0a6e2e6d7466612e6363
 tg://proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
+tg://proxy?server=cdn77.fiban.cloud&port=443&secret=ee3a0e53b1696efd2d50b1981430310d4963646e37372e666962616e2e636c6f7564
+tg://proxy?server=n.mtfa.cc&port=443&secret=ee5c4790a1051c8881b97cc3abe1955b0a6e2e6d7466612e6363
+tg://proxy?server=filemanager.ddproxy.xyz&port=443&secret=ee29402436463b3d7fc8cec382defd5c0666696c656d616e616765722e646470726f78792e78797a
 tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363
 tg://proxy?server=cdn.telehelp.top&port=443&secret=ee4f3308bc6f67badccc790bf30f15f3de63646e2e74656c6568656c702e746f70
-tg://proxy?server=cdn77.fiban.cloud&port=443&secret=ee3a0e53b1696efd2d50b1981430310d4963646e37372e666962616e2e636c6f7564
-tg://proxy?server=proxy.realslotsvpn.com&port=8443&secret=ee249ff03ce9d855dcbadbbd17e7fba3a879616e6465782e7275
-tg://proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275
-tg://proxy?server=s01.neo-trading.org&port=8443&secret=ee7391242569590e01416101927d38b5656d656469612e737465616d706f77657265642e636f6d
-tg://proxy?server=45.140.14.152&port=443&secret=eed58ecc51636537477d215b3be025b0997a6f6f6d2e7573
-tg://proxy?server=w.bestproxy.icu&port=8443&secret=ee27b0ae91a7a96aa0c1359f5fa060d1ee772e6265737470726f78792e696375
-tg://proxy?server=filemanager.ddproxy.xyz&port=443&secret=ee29402436463b3d7fc8cec382defd5c0666696c656d616e616765722e646470726f78792e78797a
-tg://proxy?server=protect.prx.mom&port=443&secret=eee8dc90a0a7661d074e78ea12b84126bc70726f746563742e7072782e6d6f6d
-tg://proxy?server=mesh.lumious.org&port=443&secret=eedcaae509a2455bbfc6165f1708fd5c586d6573682e6c756d696f75732e6f7267
-tg://proxy?server=media1.happtg.org&port=443&secret=ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275
-tg://proxy?server=rf1.data-edge.fyi&port=443&secret=ee4b8b183c13a3c4b63ddf54838b7e52527266312e646174612d656467652e667969
+tg://proxy?server=wisp.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=petrichor.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=zilch.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=phloe.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
-tg://proxy?server=s03.neo-trading.org&port=443&secret=eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275
-tg://proxy?server=wisp.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
