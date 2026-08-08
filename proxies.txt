@@ -1,5 +1,5 @@
 # MTProto (2)
-# Updated: 2026-08-08 18:12 UTC
+# Updated: 2026-08-08 18:27 UTC
 
 tg://proxy?server=n.mtfa.cc&port=443&secret=ee5c4790a1051c8881b97cc3abe1955b0a6e2e6d7466612e6363
 tg://proxy?server=petrichor.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
