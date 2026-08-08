@@ -1,5 +1,5 @@
 # MTProto (3)
-# Updated: 2026-08-08 08:54 UTC
+# Updated: 2026-08-08 09:09 UTC
 
 tg://proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
 tg://proxy?server=api.rekushka.eu.cc&port=443&secret=ee95474049f0bfbbe2711a4caa087df00579616e6465782e7275
