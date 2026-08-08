@@ -9,8 +9,8 @@ tg://proxy?server=media2.happtg.org&port=443&secret=ee95aa916bd319beb312cc6ba9b2
 tg://proxy?server=mesh.lumious.org&port=443&secret=eec1e84a7f2d9b3056eaf17c4d8b62f9036d6573682e6c756d696f75732e6f7267
 tg://proxy?server=w.bestproxy.icu&port=8443&secret=ee27b0ae91a7a96aa0c1359f5fa060d1ee772e6265737470726f78792e696375
 tg://proxy?server=45.140.14.152&port=443&secret=eed58ecc51636537477d215b3be025b0997a6f6f6d2e7573
-tg://proxy?server=media.happtg.org&port=443&secret=eed9cf709eb48bb5a37471fba84864bd7e766b2e7275
 tg://proxy?server=media3.happtg.org&port=443&secret=ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275
+tg://proxy?server=media.happtg.org&port=443&secret=eed9cf709eb48bb5a37471fba84864bd7e766b2e7275
 tg://proxy?server=45.140.14.153&port=443&secret=ee9248cec87c1dda7ffad460c4c41892f56f7a6f6e2e7275
 tg://proxy?server=pasha-make-tg-great-again.gemera.one&port=443&secret=ee704f1b022eff83a12dec8fb2da8f555f65682e766b2e636f6d
 tg://proxy?server=eerie.proxytales.life&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
