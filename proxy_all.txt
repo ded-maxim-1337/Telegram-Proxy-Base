@@ -1,7 +1,7 @@
 tg://proxy?server=live.rkn.dog&port=443&secret=eec14b98297f5c1bd625ea0c590b03f6116c6976652e726b6e2e646f67
+tg://proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
 tg://proxy?server=cdn77.fiban.cloud&port=443&secret=ee3a0e53b1696efd2d50b1981430310d4963646e37372e666962616e2e636c6f7564
 tg://proxy?server=capybara.friedshrimp.xyz&port=443&secret=dd2f94d1e8d236357b4aad1a34304ad601
-tg://proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
 tg://proxy?server=filemanager.leeroy.uz&port=443&secret=ee5a36941f95bc924c10566071b361bb5366696c65732e6c6565726f792e757a
 tg://proxy?server=proxy.realslotsvpn.com&port=8443&secret=ee249ff03ce9d855dcbadbbd17e7fba3a879616e6465782e7275
 tg://proxy?server=176.57.69.182&port=53627&secret=ee42eb79c1df22d7be6de261ce63082a4d31632e7275
@@ -19,7 +19,7 @@ tg://proxy?server=protect.prx.mom&port=443&secret=eee8dc90a0a7661d074e78ea12b841
 tg://proxy?server=fast.prx.mom&port=443&secret=ee4ab57d7496fa8fed3fc2cd1cea6ee1b7666173742e7072782e6d6f6d
 tg://proxy?server=media.happtg.org&port=443&secret=eed9cf709eb48bb5a37471fba84864bd7e766b2e7275
 tg://proxy?server=media1.happtg.org&port=443&secret=ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275
+tg://proxy?server=idyll.shmelproxy.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=petrichor.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=mtp1.hlebushek.com&port=443&secret=eea61deab187a415531ac418cd29ae58ee706574726f766963682e7275
 tg://proxy?server=sisu.proxytales.life&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
-tg://proxy?server=idyll.shmelproxy.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
