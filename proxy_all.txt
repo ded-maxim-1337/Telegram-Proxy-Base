@@ -4,4 +4,3 @@ tg://proxy?server=proxy.realslotsvpn.com&port=8443&secret=ee249ff03ce9d855dcbadb
 tg://proxy?server=n.mtfa.cc&port=443&secret=ee5c4790a1051c8881b97cc3abe1955b0a6e2e6d7466612e6363
 tg://proxy?server=s1.postpulse.space&port=443&secret=ee402900cd57c3daef160c3a2aef80a29c6164312e617269786f2e73686f70
 tg://proxy?server=renfgieu8.ddproxy.xyz&port=443&secret=ee64021440b257d7ca7955135325c6cc1372656e6667696575382e646470726f78792e78797a
-tg://proxy?server=s010.neo-trading.org&port=443&secret=ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275
