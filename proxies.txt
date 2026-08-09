@@ -1,9 +1,7 @@
-# MTProto (6)
-# Updated: 2026-08-09 11:49 UTC
+# MTProto (4)
+# Updated: 2026-08-09 12:04 UTC
 
 tg://proxy?server=live.rkn.dog&port=443&secret=ee9463358aa6fc988237072f7ab75b9fec6c6976652e726b6e2e646f67
 tg://proxy?server=cdn77.fiban.cloud&port=443&secret=ee3a0e53b1696efd2d50b1981430310d4963646e37372e666962616e2e636c6f7564
 tg://proxy?server=n.mtfa.cc&port=443&secret=ee5c4790a1051c8881b97cc3abe1955b0a6e2e6d7466612e6363
 tg://proxy?server=proxy.realslotsvpn.com&port=8443&secret=ee249ff03ce9d855dcbadbbd17e7fba3a879616e6465782e7275
-tg://proxy?server=s1.postpulse.space&port=443&secret=ee402900cd57c3daef160c3a2aef80a29c6164312e617269786f2e73686f70
-tg://proxy?server=renfgieu8.ddproxy.xyz&port=443&secret=ee64021440b257d7ca7955135325c6cc1372656e6667696575382e646470726f78792e78797a
