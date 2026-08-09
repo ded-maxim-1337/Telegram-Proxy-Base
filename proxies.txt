@@ -1,5 +1,5 @@
 # MTProto (4)
-# Updated: 2026-08-09 02:58 UTC
+# Updated: 2026-08-09 03:13 UTC
 
 tg://proxy?server=live.rkn.dog&port=443&secret=ee0dd22d44545947849293066c920a43726c6976652e726b6e2e646f67
 tg://proxy?server=cdn77.fiban.cloud&port=443&secret=ee3a0e53b1696efd2d50b1981430310d4963646e37372e666962616e2e636c6f7564
