@@ -1,5 +1,5 @@
 # MTProto (28)
-# Updated: 2026-08-09 00:42 UTC
+# Updated: 2026-08-09 00:57 UTC
 
 tg://proxy?server=live.rkn.dog&port=443&secret=ee0dd22d44545947849293066c920a43726c6976652e726b6e2e646f67
 tg://proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
@@ -8,19 +8,19 @@ tg://proxy?server=proxy.realslotsvpn.com&port=8443&secret=ee249ff03ce9d855dcbadb
 tg://proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275
 tg://proxy?server=n.mtfa.cc&port=443&secret=ee5c4790a1051c8881b97cc3abe1955b0a6e2e6d7466612e6363
 tg://proxy?server=w.bestproxy.icu&port=8443&secret=ee27b0ae91a7a96aa0c1359f5fa060d1ee772e6265737470726f78792e696375
-tg://proxy?server=filemanager.ddproxy.xyz&port=443&secret=ee29402436463b3d7fc8cec382defd5c0666696c656d616e616765722e646470726f78792e78797a
 tg://proxy?server=media1.happtg.org&port=443&secret=ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275
 tg://proxy?server=media.happtg.org&port=443&secret=eed9cf709eb48bb5a37471fba84864bd7e766b2e7275
 tg://proxy?server=45.140.14.152&port=443&secret=eed58ecc51636537477d215b3be025b0997a6f6f6d2e7573
 tg://proxy?server=mesh.lumious.org&port=443&secret=eec1e84a7f2d9b3056eaf17c4d8b62f9036d6573682e6c756d696f75732e6f7267
 tg://proxy?server=fast.prx.mom&port=443&secret=ee4ab57d7496fa8fed3fc2cd1cea6ee1b7666173742e7072782e6d6f6d
+tg://proxy?server=filemanager.ddproxy.xyz&port=443&secret=ee29402436463b3d7fc8cec382defd5c0666696c656d616e616765722e646470726f78792e78797a
 tg://proxy?server=mesh.lumious.org&port=443&secret=eedcaae509a2455bbfc6165f1708fd5c586d6573682e6c756d696f75732e6f7267
 tg://proxy?server=protect.prx.mom&port=443&secret=eee8dc90a0a7661d074e78ea12b84126bc70726f746563742e7072782e6d6f6d
-tg://proxy?server=neverlose.extravpn.io&port=443&secret=eefbd511a7205899050f71ad8457444dd76e657665726c6f73652e657874726176706e2e696f
 tg://proxy?server=jolien.extravpn.io&port=443&secret=ee7dd53b8aa1e0f7797a98c33d978dbdcf6a6f6c69656e2e657874726176706e2e696f
+tg://proxy?server=neverlose.extravpn.io&port=443&secret=eefbd511a7205899050f71ad8457444dd76e657665726c6f73652e657874726176706e2e696f
 tg://proxy?server=aleanoe.extravpn.io&port=443&secret=ee795f92d13e7377c1e65259cd3a5dfc4c616c65616e6f652e657874726176706e2e696f
-tg://proxy?server=ussr.extravpn.io&port=443&secret=ee1c6af447704a1d0e114f6e2e3eaa783a757373722e657874726176706e2e696f
 tg://proxy?server=renfgieu8.ddproxy.xyz&port=443&secret=ee64021440b257d7ca7955135325c6cc1372656e6667696575382e646470726f78792e78797a
+tg://proxy?server=ussr.extravpn.io&port=443&secret=ee1c6af447704a1d0e114f6e2e3eaa783a757373722e657874726176706e2e696f
 tg://proxy?server=rf1.data-edge.fyi&port=443&secret=ee4b8b183c13a3c4b63ddf54838b7e52527266312e646174612d656467652e667969
 tg://proxy?server=onetap.extravpn.io&port=443&secret=ee121517b1f2cc33fd74a81873ea8159216f6e657461702e657874726176706e2e696f
 tg://proxy?server=phloe.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
