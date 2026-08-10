@@ -1,8 +1,7 @@
 tg://proxy?server=live.rkn.dog&port=443&secret=ee9653189a16bf76e800adf0e777004d336c6976652e726b6e2e646f67
 tg://proxy?server=cdn77.fiban.cloud&port=443&secret=ee3a0e53b1696efd2d50b1981430310d4963646e37372e666962616e2e636c6f7564
-tg://proxy?server=filemanager.leeroy.uz&port=443&secret=ee5a36941f95bc924c10566071b361bb5366696c65732e6c6565726f792e757a
 tg://proxy?server=capybara.friedshrimp.xyz&port=443&secret=dd2f94d1e8d236357b4aad1a34304ad601
 tg://proxy?server=194.238.57.251&port=443&secret=780a60fef80f59cab46dbaca44d8da64
+tg://proxy?server=filemanager.leeroy.uz&port=443&secret=ee5a36941f95bc924c10566071b361bb5366696c65732e6c6565726f792e757a
 tg://proxy?server=proxy.realslotsvpn.com&port=8443&secret=ee249ff03ce9d855dcbadbbd17e7fba3a879616e6465782e7275
 tg://proxy?server=fast.prx.mom&port=443&secret=ee4ab57d7496fa8fed3fc2cd1cea6ee1b7666173742e7072782e6d6f6d
-tg://proxy?server=wolf.baboon.digital&port=443&secret=eea21bac021798ed6830e6d6c67ba496ad706574726f766963682e7275
