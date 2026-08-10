@@ -1,5 +1,5 @@
 # MTProto (6)
-# Updated: 2026-08-10 05:39 UTC
+# Updated: 2026-08-10 05:54 UTC
 
 tg://proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
 tg://proxy?server=cdn77.fiban.cloud&port=443&secret=ee3a0e53b1696efd2d50b1981430310d4963646e37372e666962616e2e636c6f7564
