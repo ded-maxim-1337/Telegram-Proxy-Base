@@ -1,9 +1,9 @@
 # MTProto (6)
-# Updated: 2026-08-10 15:24 UTC
+# Updated: 2026-08-10 15:39 UTC
 
-tg://proxy?server=capybara.friedshrimp.xyz&port=443&secret=dd2f94d1e8d236357b4aad1a34304ad601
-tg://proxy?server=194.238.57.251&port=443&secret=780a60fef80f59cab46dbaca44d8da64
 tg://proxy?server=data.utkanos.life&port=443&secret=ee63f12c1c005215ca4f5a5c3102fee7e7646174612e75746b616e6f732e6c696665
+tg://proxy?server=194.238.57.251&port=443&secret=780a60fef80f59cab46dbaca44d8da64
+tg://proxy?server=capybara.friedshrimp.xyz&port=443&secret=dd2f94d1e8d236357b4aad1a34304ad601
 tg://proxy?server=trial.arixo.shop&port=443&secret=eed17d98f285fad57e2b21c6e637f134e4747269616c2e617269786f2e73686f70
 tg://proxy?server=mesh.lumious.org&port=443&secret=eec1e84a7f2d9b3056eaf17c4d8b62f9036d6573682e6c756d696f75732e6f7267
 tg://proxy?server=mesh.lumious.org&port=443&secret=eedcaae509a2455bbfc6165f1708fd5c586d6573682e6c756d696f75732e6f7267
