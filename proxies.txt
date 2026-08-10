@@ -1,29 +1,27 @@
-# MTProto (26)
-# Updated: 2026-08-10 14:45 UTC
+# MTProto (24)
+# Updated: 2026-08-10 14:55 UTC
 
-tg://proxy?server=live.rkn.dog&port=443&secret=ee7507d5fb8a5bb5c3f2fda7d1d13f719d6c6976652e726b6e2e646f67
 tg://proxy?server=live.rkn.dog&port=443&secret=eec1e1246836afe8cbe55c0f115c0057ae6c6976652e726b6e2e646f67
-tg://proxy?server=live.rkn.dog&port=443&secret=eedca72bf0ae6f4781e2b47b8b0de062836c6976652e726b6e2e646f67
 tg://proxy?server=194.238.57.251&port=443&secret=780a60fef80f59cab46dbaca44d8da64
 tg://proxy?server=capybara.friedshrimp.xyz&port=443&secret=dd2f94d1e8d236357b4aad1a34304ad601
 tg://proxy?server=proxy.realslotsvpn.com&port=8443&secret=ee249ff03ce9d855dcbadbbd17e7fba3a879616e6465782e7275
+tg://proxy?server=data.utkanos.life&port=443&secret=ee63f12c1c005215ca4f5a5c3102fee7e7646174612e75746b616e6f732e6c696665
 tg://proxy?server=176.57.69.182&port=53627&secret=ee42eb79c1df22d7be6de261ce63082a4d31632e7275
 tg://proxy?server=trial.arixo.shop&port=443&secret=eed17d98f285fad57e2b21c6e637f134e4747269616c2e617269786f2e73686f70
 tg://proxy?server=spproxy.kochvpn.pw&port=8443&secret=ee3cf83879692052fb9fe48c8b5b5f7bee737070726f78792e6b6f636876706e2e7077
-tg://proxy?server=cdn7.cdnwave.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275
 tg://proxy?server=media.happtg.org&port=443&secret=eed9cf709eb48bb5a37471fba84864bd7e766b2e7275
-tg://proxy?server=s6.postpulse.space&port=443&secret=ee179deb3806ddd388988092081a52ad766164332e617269786f2e73686f70
+tg://proxy?server=cdn7.cdnwave.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275
+tg://proxy?server=ad2.arixo.shop&port=443&secret=eed09b88cbbd4e744865b890e5a0bd26876164322e617269786f2e73686f70
 tg://proxy?server=cdn8.cdnwave.org&port=443&secret=eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275
 tg://proxy?server=media10.happtg.org&port=443&secret=eeecd508d816f611bb329487809f8dac88706574726f766963682e7275
-tg://proxy?server=ad2.arixo.shop&port=443&secret=eed09b88cbbd4e744865b890e5a0bd26876164322e617269786f2e73686f70
 tg://proxy?server=lynette.myrka.digital&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c
-tg://proxy?server=echo01.whiskeytangofoxtrot.lol&port=443&secret=ee3d3e80ca97919ef1340557b8a8d90c456563686f30312e776869736b657974616e676f666f7874726f742e6c6f6c
 tg://proxy?server=mesh.lumious.org&port=443&secret=eedcaae509a2455bbfc6165f1708fd5c586d6573682e6c756d696f75732e6f7267
 tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363
-tg://proxy?server=45.140.14.150&port=443&secret=eeb4e646f3a00daffbffe6e785ca8e80667a6f6f6d2e7573
 tg://proxy?server=media1.happtg.org&port=443&secret=ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275
 tg://proxy?server=media2.happtg.org&port=443&secret=ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275
+tg://proxy?server=echo01.whiskeytangofoxtrot.lol&port=443&secret=ee3d3e80ca97919ef1340557b8a8d90c456563686f30312e776869736b657974616e676f666f7874726f742e6c6f6c
 tg://proxy?server=media3.happtg.org&port=443&secret=ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275
 tg://proxy?server=mesh.lumious.org&port=443&secret=eec1e84a7f2d9b3056eaf17c4d8b62f9036d6573682e6c756d696f75732e6f7267
+tg://proxy?server=45.140.14.150&port=443&secret=eeb4e646f3a00daffbffe6e785ca8e80667a6f6f6d2e7573
+tg://proxy?server=s6.postpulse.space&port=443&secret=ee179deb3806ddd388988092081a52ad766164332e617269786f2e73686f70
 tg://proxy?server=cdn6.cdnwave.org&port=443&secret=ee7391242569590e01416101927d38b565646e732d73686f702e7275
-tg://proxy?server=data.utkanos.life&port=443&secret=ee63f12c1c005215ca4f5a5c3102fee7e7646174612e75746b616e6f732e6c696665
