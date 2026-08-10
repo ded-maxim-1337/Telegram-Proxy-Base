@@ -1,9 +1,9 @@
 tg://proxy?server=live.rkn.dog&port=443&secret=eec14b98297f5c1bd625ea0c590b03f6116c6976652e726b6e2e646f67
 tg://proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
 tg://proxy?server=cdn77.fiban.cloud&port=443&secret=ee3a0e53b1696efd2d50b1981430310d4963646e37372e666962616e2e636c6f7564
-tg://proxy?server=capybara.friedshrimp.xyz&port=443&secret=dd2f94d1e8d236357b4aad1a34304ad601
 tg://proxy?server=filemanager.leeroy.uz&port=443&secret=ee5a36941f95bc924c10566071b361bb5366696c65732e6c6565726f792e757a
-tg://proxy?server=s6.postpulse.space&port=443&secret=ee179deb3806ddd388988092081a52ad766164332e617269786f2e73686f70
+tg://proxy?server=capybara.friedshrimp.xyz&port=443&secret=dd2f94d1e8d236357b4aad1a34304ad601
 tg://proxy?server=spproxy.kochvpn.pw&port=8443&secret=ee3cf83879692052fb9fe48c8b5b5f7bee737070726f78792e6b6f636876706e2e7077
-tg://proxy?server=petrichor.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=s6.postpulse.space&port=443&secret=ee179deb3806ddd388988092081a52ad766164332e617269786f2e73686f70
 tg://proxy?server=idyll.shmelproxy.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=petrichor.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
