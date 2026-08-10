@@ -1,5 +1,5 @@
 # MTProto (5)
-# Updated: 2026-08-10 16:09 UTC
+# Updated: 2026-08-10 16:24 UTC
 
 tg://proxy?server=data.utkanos.life&port=443&secret=ee63f12c1c005215ca4f5a5c3102fee7e7646174612e75746b616e6f732e6c696665
 tg://proxy?server=194.238.57.251&port=443&secret=780a60fef80f59cab46dbaca44d8da64
