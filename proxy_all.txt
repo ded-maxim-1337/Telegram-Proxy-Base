@@ -1,12 +1,10 @@
-tg://proxy?server=lab.bypasslab.abrdns.com&port=443&secret=ee72b6be99c8e5d89be037757d108c4d896c61622e6279706173736c61622e616272646e732e636f6d
 tg://proxy?server=t3.myrka.digital&port=444&secret=ee8888777766665555444433332222111174332e6d79726b612e6469676974616c
 tg://proxy?server=leon.baboon.digital&port=443&secret=eecc3d75febb923a9362aac9ed3f676075706574726f766963682e7275
 tg://proxy?server=194.238.57.251&port=443&secret=780a60fef80f59cab46dbaca44d8da64
 tg://proxy?server=capybara.friedshrimp.xyz&port=443&secret=dd2f94d1e8d236357b4aad1a34304ad601
-tg://proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
+tg://proxy?server=lab.bypasslab.abrdns.com&port=443&secret=ee72b6be99c8e5d89be037757d108c4d896c61622e6279706173736c61622e616272646e732e636f6d
 tg://proxy?server=trial.arixo.shop&port=443&secret=eed17d98f285fad57e2b21c6e637f134e4747269616c2e617269786f2e73686f70
-tg://proxy?server=s6.postpulse.space&port=443&secret=ee179deb3806ddd388988092081a52ad766164332e617269786f2e73686f70
+tg://proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
 tg://proxy?server=filemanager.ddproxy.xyz&port=443&secret=ee29402436463b3d7fc8cec382defd5c0666696c656d616e616765722e646470726f78792e78797a
-tg://proxy?server=media10.happtg.org&port=443&secret=eeecd508d816f611bb329487809f8dac88706574726f766963682e7275
 tg://proxy?server=idyll.shmelproxy.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=sisu.proxytales.life&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
