@@ -1,31 +1,23 @@
-# MTProto (28)
-# Updated: 2026-08-10 06:44 UTC
+# MTProto (20)
+# Updated: 2026-08-10 06:54 UTC
 
-tg://proxy?server=live.rkn.dog&port=443&secret=ee9653189a16bf76e800adf0e777004d336c6976652e726b6e2e646f67
-tg://proxy?server=live.rkn.dog&port=443&secret=eec9da115c700079d81dc59e060ee28ff16c6976652e726b6e2e646f67
-tg://proxy?server=live.rkn.dog&port=443&secret=eec14b98297f5c1bd625ea0c590b03f6116c6976652e726b6e2e646f67
-tg://proxy?server=live.rkn.dog&port=443&secret=eedca72bf0ae6f4781e2b47b8b0de062836c6976652e726b6e2e646f67
-tg://proxy?server=live.rkn.dog&port=443&secret=ee74093d9eefe56a552cd87495b7b6265b6c6976652e726b6e2e646f67
-tg://proxy?server=live.rkn.dog&port=443&secret=ee7507d5fb8a5bb5c3f2fda7d1d13f719d6c6976652e726b6e2e646f67
-tg://proxy?server=live.rkn.dog&port=443&secret=ee9463358aa6fc988237072f7ab75b9fec6c6976652e726b6e2e646f67
 tg://proxy?server=live.rkn.dog&port=443&secret=eea048d72cb486f6711e361bdd33d2e0236c6976652e726b6e2e646f67
-tg://proxy?server=live.rkn.dog&port=443&secret=ee12e87a677d8530370f2bc03c378d5dc76c6976652e726b6e2e646f67
-tg://proxy?server=cdn77.fiban.cloud&port=443&secret=ee3a0e53b1696efd2d50b1981430310d4963646e37372e666962616e2e636c6f7564
-tg://proxy?server=capybara.friedshrimp.xyz&port=443&secret=dd2f94d1e8d236357b4aad1a34304ad601
-tg://proxy?server=filemanager.leeroy.uz&port=443&secret=ee5a36941f95bc924c10566071b361bb5366696c65732e6c6565726f792e757a
 tg://proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
+tg://proxy?server=cdn77.fiban.cloud&port=443&secret=ee3a0e53b1696efd2d50b1981430310d4963646e37372e666962616e2e636c6f7564
+tg://proxy?server=filemanager.leeroy.uz&port=443&secret=ee5a36941f95bc924c10566071b361bb5366696c65732e6c6565726f792e757a
+tg://proxy?server=capybara.friedshrimp.xyz&port=443&secret=dd2f94d1e8d236357b4aad1a34304ad601
 tg://proxy?server=proxy.realslotsvpn.com&port=8443&secret=ee249ff03ce9d855dcbadbbd17e7fba3a879616e6465782e7275
-tg://proxy?server=spproxy.kochvpn.pw&port=8443&secret=ee3cf83879692052fb9fe48c8b5b5f7bee737070726f78792e6b6f636876706e2e7077
-tg://proxy?server=filemanager.ddproxy.xyz&port=443&secret=ee29402436463b3d7fc8cec382defd5c0666696c656d616e616765722e646470726f78792e78797a
+tg://proxy?server=wolf.baboon.digital&port=443&secret=eea21bac021798ed6830e6d6c67ba496ad706574726f766963682e7275
 tg://proxy?server=mt1.xomodz.fit&port=443&secret=ee2f41cc82a664180aa083ea09c7966b986d74312e786f6d6f647a2e666974
+tg://proxy?server=trial.arixo.shop&port=443&secret=eed17d98f285fad57e2b21c6e637f134e4747269616c2e617269786f2e73686f70
+tg://proxy?server=spproxy.kochvpn.pw&port=8443&secret=ee3cf83879692052fb9fe48c8b5b5f7bee737070726f78792e6b6f636876706e2e7077
+tg://proxy?server=mesh.lumious.org&port=443&secret=eedcaae509a2455bbfc6165f1708fd5c586d6573682e6c756d696f75732e6f7267
+tg://proxy?server=filemanager.ddproxy.xyz&port=443&secret=ee29402436463b3d7fc8cec382defd5c0666696c656d616e616765722e646470726f78792e78797a
 tg://proxy?server=media3.happtg.org&port=443&secret=ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275
 tg://proxy?server=fast.prx.mom&port=443&secret=ee4ab57d7496fa8fed3fc2cd1cea6ee1b7666173742e7072782e6d6f6d
 tg://proxy?server=ss1.aqil.ru&port=443&secret=eedb4f86177ef25833e0dd6a3e076ec42f7373312e6171696c2e7275
 tg://proxy?server=echo01.whiskeytangofoxtrot.lol&port=443&secret=ee3d3e80ca97919ef1340557b8a8d90c456563686f30312e776869736b657974616e676f666f7874726f742e6c6f6c
-tg://proxy?server=mesh.lumious.org&port=443&secret=eedcaae509a2455bbfc6165f1708fd5c586d6573682e6c756d696f75732e6f7267
-tg://proxy?server=trial.arixo.shop&port=443&secret=eed17d98f285fad57e2b21c6e637f134e4747269616c2e617269786f2e73686f70
 tg://proxy?server=protect.prx.mom&port=443&secret=eee8dc90a0a7661d074e78ea12b84126bc70726f746563742e7072782e6d6f6d
 tg://proxy?server=45.140.14.150&port=443&secret=eeb4e646f3a00daffbffe6e785ca8e80667a6f6f6d2e7573
-tg://proxy?server=wolf.baboon.digital&port=443&secret=eea21bac021798ed6830e6d6c67ba496ad706574726f766963682e7275
 tg://proxy?server=194.238.57.251&port=443&secret=780a60fef80f59cab46dbaca44d8da64
 tg://proxy?server=petrichor.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
