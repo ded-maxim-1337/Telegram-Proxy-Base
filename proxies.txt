@@ -1,13 +1,13 @@
 # MTProto (18)
-# Updated: 2026-08-11 22:51 UTC
+# Updated: 2026-08-11 23:06 UTC
 
 tg://proxy?server=live.rkn.dog&port=443&secret=ee6749377a1e5deb9d7ebcfdcaeb3709746c6976652e726b6e2e646f67
-tg://proxy?server=capybara.friedshrimp.xyz&port=443&secret=dd2f94d1e8d236357b4aad1a34304ad601
+tg://proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
 tg://proxy?server=194.238.57.251&port=443&secret=780a60fef80f59cab46dbaca44d8da64
+tg://proxy?server=capybara.friedshrimp.xyz&port=443&secret=dd2f94d1e8d236357b4aad1a34304ad601
 tg://proxy?server=177.3.213.110&port=43918&secret=eebe2f531b3246d4117152d2b3a1ab1de27777772e6d61782e7275
 tg://proxy?server=leon.baboon.digital&port=443&secret=eecc3d75febb923a9362aac9ed3f676075706574726f766963682e7275
 tg://proxy?server=proxy.realslotsvpn.com&port=8443&secret=ee249ff03ce9d855dcbadbbd17e7fba3a879616e6465782e7275
-tg://proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
 tg://proxy?server=176.57.69.182&port=53627&secret=ee42eb79c1df22d7be6de261ce63082a4d31632e7275
 tg://proxy?server=45.140.14.150&port=443&secret=eeb4e646f3a00daffbffe6e785ca8e80667a6f6f6d2e7573
 tg://proxy?server=media3.happtg.org&port=443&secret=ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275
