@@ -1,5 +1,5 @@
 # MTProto (6)
-# Updated: 2026-08-11 23:36 UTC
+# Updated: 2026-08-11 23:51 UTC
 
 tg://proxy?server=live.rkn.dog&port=443&secret=ee6749377a1e5deb9d7ebcfdcaeb3709746c6976652e726b6e2e646f67
 tg://proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
