@@ -1,11 +1,9 @@
 tg://proxy?server=t3.myrka.digital&port=444&secret=ee8888777766665555444433332222111174332e6d79726b612e6469676974616c
-tg://proxy?server=leon.baboon.digital&port=443&secret=eecc3d75febb923a9362aac9ed3f676075706574726f766963682e7275
-tg://proxy?server=capybara.friedshrimp.xyz&port=443&secret=dd2f94d1e8d236357b4aad1a34304ad601
 tg://proxy?server=194.238.57.251&port=443&secret=780a60fef80f59cab46dbaca44d8da64
+tg://proxy?server=capybara.friedshrimp.xyz&port=443&secret=dd2f94d1e8d236357b4aad1a34304ad601
 tg://proxy?server=l01.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe6c30312e616e74656e6e612d6d7a742e6c697665
+tg://proxy?server=leon.baboon.digital&port=443&secret=eecc3d75febb923a9362aac9ed3f676075706574726f766963682e7275
 tg://proxy?server=pirojok.mtproto.pics&port=853&secret=dd47c45aae7505146a5707741697dc34ef
-tg://proxy?server=2.26.51.248&port=443&secret=eecec0ff67e49fe715639876429c5f6cc4706574726f766963682e7275
 tg://proxy?server=go2.klyuch1k.org&port=443&secret=eea23f4f6ebfd072d53f10ea25a9059b57676f322e6b6c79756368316b2e6f7267
-tg://proxy?server=pirojok.mtproto.pics&port=853&secret=ee47c45aae7505146a5707741697dc34ef706c61792e6d7470726f746f2e6d79
-tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363
+tg://proxy?server=2.26.51.248&port=443&secret=eecec0ff67e49fe715639876429c5f6cc4706574726f766963682e7275
 tg://proxy?server=sisu.proxytales.life&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
