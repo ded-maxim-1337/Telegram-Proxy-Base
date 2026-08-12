@@ -1,7 +1,6 @@
+tg://proxy?server=fb.fbinfo.ru&port=7443&secret=ee1b9d3ae4f29290a2ff7922d59478c31b73736c2e677374617469632e636f6d
 tg://proxy?server=194.238.57.251&port=443&secret=780a60fef80f59cab46dbaca44d8da64
-tg://proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
 tg://proxy?server=t4.myrka.digital&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c
 tg://proxy?server=l01.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe6c30312e616e74656e6e612d6d7a742e6c697665
-tg://proxy?server=2.26.96.103&port=13345&secret=eed9da9a40a8615bcdf2a5f16159009c2d7777772e636c6f7564666c6172652e636f6d
-tg://proxy?server=fb.fbinfo.ru&port=7443&secret=ee1b9d3ae4f29290a2ff7922d59478c31b73736c2e677374617469632e636f6d
 tg://proxy?server=81.90.21.60&port=443&secret=ee72da21da7c07b91c4cc4d6b99283cd787777772e696e74656c2e636f6d
+tg://proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
