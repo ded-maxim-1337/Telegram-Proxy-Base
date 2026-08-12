@@ -1,10 +1,8 @@
-# MTProto (7)
-# Updated: 2026-08-12 05:36 UTC
+# MTProto (5)
+# Updated: 2026-08-12 05:51 UTC
 
 tg://proxy?server=t3.myrka.digital&port=444&secret=ee8888777766665555444433332222111174332e6d79726b612e6469676974616c
-tg://proxy?server=proxy.fenixdns.com&port=443&secret=eef006c9ff8ab93b0505b6179c8d4dba1079616e6465782e7275
+tg://proxy?server=fb.fbinfo.ru&port=7443&secret=ee1b9d3ae4f29290a2ff7922d59478c31b73736c2e677374617469632e636f6d
 tg://proxy?server=194.238.57.251&port=443&secret=780a60fef80f59cab46dbaca44d8da64
 tg://proxy?server=capybara.friedshrimp.xyz&port=443&secret=dd2f94d1e8d236357b4aad1a34304ad601
-tg://proxy?server=fb.fbinfo.ru&port=7443&secret=ee1b9d3ae4f29290a2ff7922d59478c31b73736c2e677374617469632e636f6d
-tg://proxy?server=ya.zainet.tech&port=443&secret=ee3e328cebc1a757096d8ef8e587bdb84f79612e7a61696e65742e74656368
-tg://proxy?server=pirojok.mtproto.pics&port=853&secret=dd47c45aae7505146a5707741697dc34ef
+tg://proxy?server=proxy.fenixdns.com&port=443&secret=eef006c9ff8ab93b0505b6179c8d4dba1079616e6465782e7275
