@@ -1,9 +1,9 @@
 # MTProto (6)
-# Updated: 2026-08-11 23:51 UTC
+# Updated: 2026-08-12 00:05 UTC
 
 tg://proxy?server=live.rkn.dog&port=443&secret=ee6749377a1e5deb9d7ebcfdcaeb3709746c6976652e726b6e2e646f67
 tg://proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
-tg://proxy?server=capybara.friedshrimp.xyz&port=443&secret=dd2f94d1e8d236357b4aad1a34304ad601
 tg://proxy?server=194.238.57.251&port=443&secret=780a60fef80f59cab46dbaca44d8da64
+tg://proxy?server=capybara.friedshrimp.xyz&port=443&secret=dd2f94d1e8d236357b4aad1a34304ad601
 tg://proxy?server=leon.baboon.digital&port=443&secret=eecc3d75febb923a9362aac9ed3f676075706574726f766963682e7275
 tg://proxy?server=177.3.213.110&port=43918&secret=eebe2f531b3246d4117152d2b3a1ab1de27777772e6d61782e7275
