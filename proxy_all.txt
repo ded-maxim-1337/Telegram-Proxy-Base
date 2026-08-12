@@ -1,9 +1,8 @@
 tg://proxy?server=t3.myrka.digital&port=444&secret=ee8888777766665555444433332222111174332e6d79726b612e6469676974616c
+tg://proxy?server=proxy.fenixdns.com&port=443&secret=eef006c9ff8ab93b0505b6179c8d4dba1079616e6465782e7275
 tg://proxy?server=194.238.57.251&port=443&secret=780a60fef80f59cab46dbaca44d8da64
 tg://proxy?server=capybara.friedshrimp.xyz&port=443&secret=dd2f94d1e8d236357b4aad1a34304ad601
-tg://proxy?server=proxy.fenixdns.com&port=443&secret=eef006c9ff8ab93b0505b6179c8d4dba1079616e6465782e7275
 tg://proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
+tg://proxy?server=212.45.30.31&port=9443&secret=ee931c24423b548b9ec00f022ac98c977164697470726f78792e6d6f732e7275
 tg://proxy?server=proxy.realslotsvpn.com&port=8443&secret=ee249ff03ce9d855dcbadbbd17e7fba3a879616e6465782e7275
 tg://proxy?server=pirojok.mtproto.pics&port=853&secret=dd47c45aae7505146a5707741697dc34ef
-tg://proxy?server=177.3.213.110&port=43918&secret=eebe2f531b3246d4117152d2b3a1ab1de27777772e6d61782e7275
-tg://proxy?server=212.45.30.31&port=9443&secret=ee931c24423b548b9ec00f022ac98c977164697470726f78792e6d6f732e7275
