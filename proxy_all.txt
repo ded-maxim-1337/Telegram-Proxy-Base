@@ -5,4 +5,3 @@ tg://proxy?server=proxy.fenixdns.com&port=443&secret=eef006c9ff8ab93b0505b6179c8
 tg://proxy?server=fb.fbinfo.ru&port=7443&secret=ee1b9d3ae4f29290a2ff7922d59478c31b73736c2e677374617469632e636f6d
 tg://proxy?server=177.3.213.110&port=43918&secret=eebe2f531b3246d4117152d2b3a1ab1de27777772e6d61782e7275
 tg://proxy?server=media2.happtg.org&port=443&secret=ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275
-tg://proxy?server=media1.happtg.org&port=443&secret=ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275
