@@ -4,4 +4,3 @@ tg://proxy?server=194.238.57.251&port=443&secret=780a60fef80f59cab46dbaca44d8da6
 tg://proxy?server=proxy.fenixdns.com&port=443&secret=eef006c9ff8ab93b0505b6179c8d4dba1079616e6465782e7275
 tg://proxy?server=81.90.21.60&port=5223&secret=ee72da21da7c07b91c4cc4d6b99283cd787777772e696e74656c2e636f6d
 tg://proxy?server=rupop.legendaryfm.uk&port=443&secret=ee7176789f11589e676e202f8440a0ba5f7275706f702e6c6567656e64617279666d2e756b
-tg://proxy?server=mesh.lumious.org&port=443&secret=eedcaae509a2455bbfc6165f1708fd5c586d6573682e6c756d696f75732e6f7267
