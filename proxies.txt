@@ -1,5 +1,5 @@
 # MTProto (6)
-# Updated: 2026-08-12 17:36 UTC
+# Updated: 2026-08-12 17:51 UTC
 
 tg://proxy?server=proxy.fenixdns.com&port=443&secret=eef006c9ff8ab93b0505b6179c8d4dba1079616e6465782e7275
 tg://proxy?server=leon.baboon.digital&port=443&secret=eecc3d75febb923a9362aac9ed3f676075706574726f766963682e7275
