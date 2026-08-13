@@ -1,12 +1,10 @@
-# MTProto (9)
-# Updated: 2026-08-13 01:21 UTC
+# MTProto (7)
+# Updated: 2026-08-13 01:36 UTC
 
 tg://proxy?server=live.rkn.dog&port=443&secret=eea95ea95d121cd7a62770835f18dc55386c6976652e726b6e2e646f67
 tg://proxy?server=t3.myrka.digital&port=444&secret=ee8888777766665555444433332222111174332e6d79726b612e6469676974616c
 tg://proxy?server=194.238.57.251&port=443&secret=780a60fef80f59cab46dbaca44d8da64
-tg://proxy?server=proxy.fenixdns.com&port=443&secret=eef006c9ff8ab93b0505b6179c8d4dba1079616e6465782e7275
 tg://proxy?server=t4.myrka.digital&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c
-tg://proxy?server=fb.fbinfo.ru&port=7443&secret=ee1b9d3ae4f29290a2ff7922d59478c31b73736c2e677374617469632e636f6d
+tg://proxy?server=proxy.fenixdns.com&port=443&secret=eef006c9ff8ab93b0505b6179c8d4dba1079616e6465782e7275
 tg://proxy?server=212.45.30.31&port=9443&secret=ee931c24423b548b9ec00f022ac98c977164697470726f78792e6d6f732e7275
 tg://proxy?server=lynette.myrka.digital&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c
-tg://proxy?server=89.125.120.159&port=443&secret=ee8a5404ecadea87b2ac0828b45817dbdd6175746f73636f757432342e7275
