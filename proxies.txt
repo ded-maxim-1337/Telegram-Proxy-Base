@@ -1,5 +1,5 @@
 # MTProto (2)
-# Updated: 2026-08-13 20:05 UTC
+# Updated: 2026-08-13 20:20 UTC
 
 tg://proxy?server=t4.myrka.digital&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c
 tg://proxy?server=194.238.57.251&port=443&secret=780a60fef80f59cab46dbaca44d8da64
