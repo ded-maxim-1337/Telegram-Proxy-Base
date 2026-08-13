@@ -1,9 +1,8 @@
-# MTProto (6)
-# Updated: 2026-08-13 01:51 UTC
+# MTProto (5)
+# Updated: 2026-08-13 02:06 UTC
 
 tg://proxy?server=live.rkn.dog&port=443&secret=eea95ea95d121cd7a62770835f18dc55386c6976652e726b6e2e646f67
 tg://proxy?server=t3.myrka.digital&port=444&secret=ee8888777766665555444433332222111174332e6d79726b612e6469676974616c
 tg://proxy?server=194.238.57.251&port=443&secret=780a60fef80f59cab46dbaca44d8da64
 tg://proxy?server=t4.myrka.digital&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c
-tg://proxy?server=proxy.fenixdns.com&port=443&secret=eef006c9ff8ab93b0505b6179c8d4dba1079616e6465782e7275
 tg://proxy?server=212.45.30.31&port=9443&secret=ee931c24423b548b9ec00f022ac98c977164697470726f78792e6d6f732e7275
