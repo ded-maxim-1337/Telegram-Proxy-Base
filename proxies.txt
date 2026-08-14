@@ -1,9 +1,9 @@
 # MTProto (6)
-# Updated: 2026-08-14 18:57 UTC
+# Updated: 2026-08-14 19:12 UTC
 
 tg://proxy?server=194.238.57.251&port=443&secret=780a60fef80f59cab46dbaca44d8da64
 tg://proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
-tg://proxy?server=node.easyproxy.cfd&port=443&secret=ee6be95a795ee766da019cd30044b837c16e6f64652e6561737970726f78792e636664
 tg://proxy?server=proxy.fenixdns.com&port=443&secret=eef006c9ff8ab93b0505b6179c8d4dba1079616e6465782e7275
 tg://proxy?server=s1.postpulse.space&port=443&secret=ee402900cd57c3daef160c3a2aef80a29c6164312e617269786f2e73686f70
+tg://proxy?server=node.easyproxy.cfd&port=443&secret=ee6be95a795ee766da019cd30044b837c16e6f64652e6561737970726f78792e636664
 tg://proxy?server=link.telehelp.top&port=443&secret=ee243af7382f8853a59265ac6dd3aa39a26c696e6b2e74656c6568656c702e746f70
