@@ -1,15 +1,16 @@
 # MTProto (30)
-# Updated: 2026-08-14 03:11 UTC
+# Updated: 2026-08-14 03:20 UTC
 
+tg://proxy?server=103.151.186.22&port=8443&secret=eec8576be4484da99437c59af67c28ae447777772e6a696f2e636f6d
+tg://proxy?server=russia.mtproto.pics&port=853&secret=dd47c45aae7505146a5707741697dc34ef
+tg://proxy?server=194.238.57.251&port=443&secret=780a60fef80f59cab46dbaca44d8da64
 tg://proxy?server=ns2.mtproxy.top&port=443&secret=ee8d49d4ca9c741d51e7f6f8985c94723d6e73322e6d7470726f78792e746f70
 tg://proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
-tg://proxy?server=103.151.186.22&port=8443&secret=eec8576be4484da99437c59af67c28ae447777772e6a696f2e636f6d
-tg://proxy?server=194.238.57.251&port=443&secret=780a60fef80f59cab46dbaca44d8da64
-tg://proxy?server=russia.mtproto.pics&port=853&secret=dd47c45aae7505146a5707741697dc34ef
+tg://proxy?server=node.easyproxy.cfd&port=443&secret=ee6be95a795ee766da019cd30044b837c16e6f64652e6561737970726f78792e636664
 tg://proxy?server=proxy.fenixdns.com&port=443&secret=eef006c9ff8ab93b0505b6179c8d4dba1079616e6465782e7275
 tg://proxy?server=l01.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe6c30312e616e74656e6e612d6d7a742e6c697665
-tg://proxy?server=zone.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=proxy.realslotsvpn.com&port=8443&secret=ee249ff03ce9d855dcbadbbd17e7fba3a879616e6465782e7275
+tg://proxy?server=zone.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=russia.mtproto.pics&port=443&secret=dd47c45aae7505146a5707741697dc34ef
 tg://proxy?server=fast.prx.mom&port=443&secret=ee4ab57d7496fa8fed3fc2cd1cea6ee1b7666173742e7072782e6d6f6d
 tg://proxy?server=gamma01.whiskeytangofoxtrot.lol&port=443&secret=eee25ef093f348823cf1b1c3e6ea0975b467616d6d6130312e776869736b657974616e676f666f7874726f742e6c6f6c
@@ -29,5 +30,4 @@ tg://proxy?server=russia.mtproto.pics&port=853&secret=ee47c45aae7505146a57077416
 tg://proxy?server=media8.happtg.org&port=443&secret=eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275
 tg://proxy?server=185.114.156.156&port=443&secret=eed3b9635812d55b123e4c13a5b236ee617a6f6f6d2e7573
 tg://proxy?server=media1.happtg.org&port=443&secret=ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275
-tg://proxy?server=node.easyproxy.cfd&port=443&secret=ee6be95a795ee766da019cd30044b837c16e6f64652e6561737970726f78792e636664
 tg://proxy?server=petrichor.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
