@@ -1,5 +1,5 @@
 # MTProto (6)
-# Updated: 2026-08-14 08:42 UTC
+# Updated: 2026-08-14 08:57 UTC
 
 tg://proxy?server=russia.mtproto.pics&port=853&secret=ee47c45aae7505146a5707741697dc34ef7275737369612e6d7470726f746f2e70696373
 tg://proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
