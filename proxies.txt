@@ -1,5 +1,5 @@
 # MTProto (8)
-# Updated: 2026-08-14 06:08 UTC
+# Updated: 2026-08-14 06:23 UTC
 
 tg://proxy?server=node.easyproxy.cfd&port=443&secret=ee6be95a795ee766da019cd30044b837c16e6f64652e6561737970726f78792e636664
 tg://proxy?server=russia.mtproto.pics&port=853&secret=ee47c45aae7505146a5707741697dc34ef7275737369612e6d7470726f746f2e70696373
