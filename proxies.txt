@@ -1,12 +1,12 @@
 # MTProto (9)
-# Updated: 2026-08-14 04:35 UTC
+# Updated: 2026-08-14 04:50 UTC
 
 tg://proxy?server=node.easyproxy.cfd&port=443&secret=ee6be95a795ee766da019cd30044b837c16e6f64652e6561737970726f78792e636664
+tg://proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
 tg://proxy?server=103.151.186.22&port=8443&secret=eec8576be4484da99437c59af67c28ae447777772e6a696f2e636f6d
 tg://proxy?server=194.238.57.251&port=443&secret=780a60fef80f59cab46dbaca44d8da64
 tg://proxy?server=russia.mtproto.pics&port=853&secret=dd47c45aae7505146a5707741697dc34ef
-tg://proxy?server=russia.mtproto.pics&port=853&secret=ee47c45aae7505146a5707741697dc34ef7275737369612e6d7470726f746f2e70696373
-tg://proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
 tg://proxy?server=russia.mtproto.pics&port=443&secret=dd47c45aae7505146a5707741697dc34ef
 tg://proxy?server=fast.prx.mom&port=443&secret=ee4ab57d7496fa8fed3fc2cd1cea6ee1b7666173742e7072782e6d6f6d
+tg://proxy?server=russia.mtproto.pics&port=853&secret=ee47c45aae7505146a5707741697dc34ef7275737369612e6d7470726f746f2e70696373
 tg://proxy?server=ad1.arixo.shop&port=443&secret=eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70
