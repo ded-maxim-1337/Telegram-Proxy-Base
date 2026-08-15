@@ -1,7 +1,7 @@
 # MTProto (4)
-# Updated: 2026-08-15 10:30 UTC
+# Updated: 2026-08-15 10:45 UTC
 
-tg://proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
 tg://proxy?server=194.238.57.251&port=443&secret=780a60fef80f59cab46dbaca44d8da64
+tg://proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
 tg://proxy?server=proxy.fenixdns.com&port=443&secret=eef006c9ff8ab93b0505b6179c8d4dba1079616e6465782e7275
 tg://proxy?server=161.104.106.60&port=443&secret=dd6dc6c32df732ff33148c4217aa901c4d
