@@ -1,9 +1,9 @@
 tg://proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
 tg://proxy?server=194.238.57.251&port=443&secret=780a60fef80f59cab46dbaca44d8da64
-tg://proxy?server=103.151.186.22&port=8443&secret=eec8576be4484da99437c59af67c28ae447777772e6a696f2e636f6d
-tg://proxy?server=proxy.fenixdns.com&port=443&secret=eef006c9ff8ab93b0505b6179c8d4dba1079616e6465782e7275
-tg://proxy?server=rupop.legendaryfm.uk&port=443&secret=ee7176789f11589e676e202f8440a0ba5f7275706f702e6c6567656e64617279666d2e756b
 tg://proxy?server=161.104.106.60&port=443&secret=dd6dc6c32df732ff33148c4217aa901c4d
+tg://proxy?server=proxy.fenixdns.com&port=443&secret=eef006c9ff8ab93b0505b6179c8d4dba1079616e6465782e7275
+tg://proxy?server=103.151.186.22&port=8443&secret=eec8576be4484da99437c59af67c28ae447777772e6a696f2e636f6d
+tg://proxy?server=rupop.legendaryfm.uk&port=443&secret=ee7176789f11589e676e202f8440a0ba5f7275706f702e6c6567656e64617279666d2e756b
 tg://proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275
 tg://proxy?server=jarko.myrka.digital&port=443&secret=ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c
 tg://proxy?server=assets.prx.mom&port=443&secret=eee3e3a485f4df6f309598d9f8371230636173736574732e7072782e6d6f6d
