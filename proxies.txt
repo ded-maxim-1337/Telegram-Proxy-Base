@@ -1,7 +1,4 @@
-# MTProto (4)
-# Updated: 2026-08-17 22:04 UTC
+# MTProto (1)
+# Updated: 2026-08-17 22:19 UTC
 
 tg://proxy?server=161.104.106.60&port=443&secret=dd6dc6c32df732ff33148c4217aa901c4d
-tg://proxy?server=capybara.friedshrimp.xyz&port=443&secret=dd2f94d1e8d236357b4aad1a34304ad601
-tg://proxy?server=gate.24starsmarket.ru&port=443&secret=ee87edf50215ee4bf7aa2d409b9cd71fcc676174652e323473746172736d61726b65742e7275
-tg://proxy?server=tg-proxy-1.potokvpn.com&port=993&secret=6c3eebd597e9fa83c5fb3de4a2454dda
