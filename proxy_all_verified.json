@@ -4,7 +4,7 @@
     "host": "161.104.106.60",
     "port": 443,
     "link": "tg://proxy?server=161.104.106.60&port=443&secret=dd6dc6c32df732ff33148c4217aa901c4d",
-    "ping": 3.554,
+    "ping": 3.573,
     "domain": "",
     "probe_resistant": false,
     "method": "MTProto_OK",
@@ -12,10 +12,10 @@
     "prev_score": 72,
     "score_trend": "same",
     "score_penalty": 0,
-    "check_count": 93,
-    "uptime": 33,
-    "uptime_human": "8ч 15м",
-    "uptime_pct": 90.3,
+    "check_count": 94,
+    "uptime": 34,
+    "uptime_human": "8ч 30м",
+    "uptime_pct": 90.4,
     "secret": "dd6dc6c32df732ff33148c4217aa901c4d"
   }
 ]
