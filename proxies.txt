@@ -1,28 +1,14 @@
-# MTProto (25)
-# Updated: 2026-08-18 21:34 UTC
+# MTProto (11)
+# Updated: 2026-08-18 21:49 UTC
 
 tg://proxy?server=live.rkn.dog&port=443&secret=eeb08a67c6464eebe35adecd9b315b6a536c6976652e726b6e2e646f67
+tg://proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
 tg://proxy?server=capybara.friedshrimp.xyz&port=443&secret=dd2f94d1e8d236357b4aad1a34304ad601
 tg://proxy?server=161.104.106.60&port=443&secret=dd6dc6c32df732ff33148c4217aa901c4d
-tg://proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
-tg://proxy?server=s9.prx.mom&port=443&secret=eee88975c744811906e92f43a1ee93951873392e7072782e6d6f6d
-tg://proxy?server=ad3.arixo.shop&port=443&secret=ee722fba8d97b9027b5fc4deb041b290cb6164332e617269786f2e73686f70
-tg://proxy?server=t4.myrka.digital&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c
 tg://proxy?server=lynette.myrka.digital&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c
+tg://proxy?server=ad6.arixo.shop&port=443&secret=ee0655739ff0a111810d8529120d2071a66164332e617269786f2e73686f70
+tg://proxy?server=s9.prx.mom&port=443&secret=eee88975c744811906e92f43a1ee93951873392e7072782e6d6f6d
+tg://proxy?server=95.163.214.161&port=443&secret=eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275
 tg://proxy?server=ad4.arixo.shop&port=443&secret=eec699329f2f8c2d33cd1e1a9f10e5d32d6164312e617269786f2e73686f70
 tg://proxy?server=tea.hotstbvs.ru&port=8843&secret=ee2c4047df04ea16c08c0a4cb094aec14a7465612e686f7473746276732e7275
 tg://proxy?server=s1.postpulse.space&port=443&secret=ee402900cd57c3daef160c3a2aef80a29c6164312e617269786f2e73686f70
-tg://proxy?server=s3.assetflux.org&port=443&secret=ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275
-tg://proxy?server=relay.rknsosi.shop&port=443&secret=ee93e8816b5fd5c054bc95442701329e0072656c61792e726b6e736f73692e73686f70
-tg://proxy?server=edge2.medhata.org&port=2443&secret=ee210a1476d9f3374fed48b19ccd3ad7b665646765322e6d6564686174612e6f7267
-tg://proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275
-tg://proxy?server=ad6.arixo.shop&port=443&secret=ee0655739ff0a111810d8529120d2071a66164332e617269786f2e73686f70
-tg://proxy?server=fast.prx.mom&port=443&secret=ee4ab57d7496fa8fed3fc2cd1cea6ee1b7666173742e7072782e6d6f6d
-tg://proxy?server=gate.24starsmarket.ru&port=443&secret=ee87edf50215ee4bf7aa2d409b9cd71fcc676174652e323473746172736d61726b65742e7275
-tg://proxy?server=95.163.214.161&port=443&secret=eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275
-tg://proxy?server=proxy65.arixo.shop&port=443&secret=ee3ceb82a3b4254e6e6ae1971021f3c209617669746f2e7275
-tg://proxy?server=media2.happtg.org&port=443&secret=ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275
-tg://proxy?server=media3.happtg.org&port=443&secret=ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275
-tg://proxy?server=84.23.53.64&port=443&secret=ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275
-tg://proxy?server=media8.happtg.org&port=443&secret=eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275
-tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363
