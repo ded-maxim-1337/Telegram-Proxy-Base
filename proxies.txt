@@ -1,5 +1,5 @@
 # MTProto (6)
-# Updated: 2026-08-18 12:19 UTC
+# Updated: 2026-08-18 12:34 UTC
 
 tg://proxy?server=89.104.74.251&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
 tg://proxy?server=capybara.friedshrimp.xyz&port=443&secret=dd2f94d1e8d236357b4aad1a34304ad601
