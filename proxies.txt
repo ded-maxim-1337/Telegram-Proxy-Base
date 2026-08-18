@@ -1,11 +1,9 @@
-# MTProto (8)
-# Updated: 2026-08-18 08:34 UTC
+# MTProto (6)
+# Updated: 2026-08-18 08:49 UTC
 
-tg://proxy?server=live.rkn.dog&port=443&secret=ee4f93c764783b5ce3438f083610aae1b76c6976652e726b6e2e646f67
 tg://proxy?server=capybara.friedshrimp.xyz&port=443&secret=dd2f94d1e8d236357b4aad1a34304ad601
 tg://proxy?server=161.104.106.60&port=443&secret=dd6dc6c32df732ff33148c4217aa901c4d
 tg://proxy?server=89.104.74.251&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
 tg://proxy?server=portal.freetrail.win&port=443&secret=ddbc4aaf28ba8d24b41ae66a63035aa025
-tg://proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
-tg://proxy?server=lynette.myrka.digital&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c
 tg://proxy?server=media2.happtg.org&port=443&secret=ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275
+tg://proxy?server=lynette.myrka.digital&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c
