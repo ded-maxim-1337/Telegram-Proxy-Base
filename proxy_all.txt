@@ -3,5 +3,3 @@ tg://proxy?server=161.104.106.60&port=443&secret=dd6dc6c32df732ff33148c4217aa901
 tg://proxy?server=capybara.friedshrimp.xyz&port=443&secret=dd2f94d1e8d236357b4aad1a34304ad601
 tg://proxy?server=t4.myrka.digital&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c
 tg://proxy?server=portfolio.hrscp.net&port=8443&secret=ee07955a5d55074ab555484463a3f2ceca706f7274666f6c696f2e68727363702e6e6574
-tg://proxy?server=ad4.arixo.shop&port=443&secret=eec699329f2f8c2d33cd1e1a9f10e5d32d6164312e617269786f2e73686f70
-tg://proxy?server=84.23.53.64&port=443&secret=ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275
