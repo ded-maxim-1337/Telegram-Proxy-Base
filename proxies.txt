@@ -1,10 +1,10 @@
 # MTProto (7)
-# Updated: 2026-08-20 18:34 UTC
+# Updated: 2026-08-20 18:49 UTC
 
 tg://proxy?server=proxy.fenixdns.com&port=443&secret=eef006c9ff8ab93b0505b6179c8d4dba1079616e6465782e7275
-tg://proxy?server=185.130.115.175&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c
 tg://proxy?server=bel.prx.mom&port=443&secret=ee38d57ebd94e6ca7effcdd4d7f98ef1726164732e78352e7275
 tg://proxy?server=portal.freetrail.win&port=443&secret=ddbc4aaf28ba8d24b41ae66a63035aa025
 tg://proxy?server=portfolio.hrscp.net&port=8443&secret=ee07955a5d55074ab555484463a3f2ceca706f7274666f6c696f2e68727363702e6e6574
 tg://proxy?server=jarko.myrka.digital&port=443&secret=ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c
+tg://proxy?server=185.130.115.175&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c
 tg://proxy?server=lynette.myrka.digital&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c
