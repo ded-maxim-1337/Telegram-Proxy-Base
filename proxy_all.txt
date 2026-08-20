@@ -2,6 +2,6 @@ tg://proxy?server=185.130.115.175&port=443&secret=ee1111222233334444555566667777
 tg://proxy?server=portfolio.hrscp.net&port=8443&secret=ee07955a5d55074ab555484463a3f2ceca706f7274666f6c696f2e68727363702e6e6574
 tg://proxy?server=jarko.myrka.digital&port=443&secret=ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c
 tg://proxy?server=portal.freetrail.win&port=443&secret=ddbc4aaf28ba8d24b41ae66a63035aa025
-tg://proxy?server=gamerpr.cfd&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=fast.prx.mom&port=443&secret=ee4ab57d7496fa8fed3fc2cd1cea6ee1b7666173742e7072782e6d6f6d
 tg://proxy?server=s9.prx.mom&port=443&secret=eee88975c744811906e92f43a1ee93951873392e7072782e6d6f6d
+tg://proxy?server=gamerpr.cfd&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
