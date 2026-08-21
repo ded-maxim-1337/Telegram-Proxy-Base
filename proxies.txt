@@ -1,11 +1,9 @@
-# MTProto (8)
-# Updated: 2026-08-21 20:04 UTC
+# MTProto (6)
+# Updated: 2026-08-21 20:19 UTC
 
 tg://proxy?server=185.130.115.175&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c
-tg://proxy?server=gateway.mtproxy.cc&port=443&secret=eeef7017f26c9ecb71ed8d760999294318676174657761792e6d7470726f78792e6363
 tg://proxy?server=jarko.myrka.digital&port=443&secret=ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c
 tg://proxy?server=lynette.myrka.digital&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c
+tg://proxy?server=gateway.mtproxy.cc&port=443&secret=eeef7017f26c9ecb71ed8d760999294318676174657761792e6d7470726f78792e6363
 tg://proxy?server=cloud.mtjlpoto.fit&port=443&secret=eeef7017f26c9ecb71ed8d7609992943186d2e6265626f6f2e7275
 tg://proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275
-tg://proxy?server=edge.mtjlpoto.fit&port=443&secret=eeef7017f26c9ecb71ed8d7609992943186d2e6265626f6f2e7275
-tg://proxy?server=node.mtjlpoto.fit&port=443&secret=eeef7017f26c9ecb71ed8d7609992943186d2e6265626f6f2e7275
