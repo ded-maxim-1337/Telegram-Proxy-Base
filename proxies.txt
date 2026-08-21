@@ -1,22 +1,22 @@
 # MTProto (19)
-# Updated: 2026-08-21 09:19 UTC
+# Updated: 2026-08-21 09:34 UTC
 
 tg://proxy?server=185.130.115.175&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c
 tg://proxy?server=jarko.myrka.digital&port=443&secret=ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c
-tg://proxy?server=echo01.whiskeytangofoxtrot.lol&port=443&secret=ee0d42d10a1ce9fd7198b8232e801aa16d6563686f30312e776869736b657974616e676f666f7874726f742e6c6f6c
-tg://proxy?server=lynette.myrka.digital&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c
-tg://proxy?server=s1.assetflux.org&port=443&secret=ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275
-tg://proxy?server=s3.assetflux.org&port=443&secret=ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275
-tg://proxy?server=proxtstar.live&port=443&secret=eed21e15e0d7df3d811a11e2accff34eec617669746f2e7275
 tg://proxy?server=t4.myrka.digital&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c
+tg://proxy?server=lynette.myrka.digital&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c
+tg://proxy?server=echo01.whiskeytangofoxtrot.lol&port=443&secret=ee0d42d10a1ce9fd7198b8232e801aa16d6563686f30312e776869736b657974616e676f666f7874726f742e6c6f6c
+tg://proxy?server=s1.assetflux.org&port=443&secret=ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275
+tg://proxy?server=proxtstar.live&port=443&secret=eed21e15e0d7df3d811a11e2accff34eec617669746f2e7275
+tg://proxy?server=s3.assetflux.org&port=443&secret=ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275
 tg://proxy?server=freeinternet.skin&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363
-tg://proxy?server=s9.prx.mom&port=443&secret=eee88975c744811906e92f43a1ee93951873392e7072782e6d6f6d
-tg://proxy?server=tea.hotstbvs.ru&port=8843&secret=ee2c4047df04ea16c08c0a4cb094aec14a7465612e686f7473746276732e7275
-tg://proxy?server=megaconnect.click&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=cdn7.cdnwave.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275
+tg://proxy?server=tea.hotstbvs.ru&port=8843&secret=ee2c4047df04ea16c08c0a4cb094aec14a7465612e686f7473746276732e7275
+tg://proxy?server=s9.prx.mom&port=443&secret=eee88975c744811906e92f43a1ee93951873392e7072782e6d6f6d
+tg://proxy?server=megaconnect.click&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=95.163.214.161&port=443&secret=eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275
+tg://proxy?server=nyakawai.shop&port=443&secret=eefddb26d5047ce1787ece232a57832391617669746f2e7275
 tg://proxy?server=media8.happtg.org&port=443&secret=eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275
 tg://proxy?server=media3.happtg.org&port=443&secret=ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275
-tg://proxy?server=nyakawai.shop&port=443&secret=eefddb26d5047ce1787ece232a57832391617669746f2e7275
 tg://proxy?server=freeconnect.lol&port=443&secret=eef7a565db46f8f5bf156054d86db42969617669746f2e7275
