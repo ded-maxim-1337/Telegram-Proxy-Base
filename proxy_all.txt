@@ -1,4 +1,4 @@
 tg://proxy?server=cdn.mtproxy.cc&port=443&secret=eefbfe5681832d6f42bbc050839be23bf463646e2e6d7470726f78792e6363
+tg://proxy?server=lynette.myrka.digital&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c
 tg://proxy?server=t4.myrka.digital&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c
 tg://proxy?server=chestno.servera-dlya-tg-zdes-net.abrdns.com&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275
-tg://proxy?server=lynette.myrka.digital&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c
