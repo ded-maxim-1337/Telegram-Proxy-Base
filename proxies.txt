@@ -1,5 +1,5 @@
 # MTProto (3)
-# Updated: 2026-08-22 20:34 UTC
+# Updated: 2026-08-22 20:49 UTC
 
 tg://proxy?server=api.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275
 tg://proxy?server=185.130.115.175&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c
