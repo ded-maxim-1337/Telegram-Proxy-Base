@@ -1,12 +1,11 @@
-# MTProto (9)
-# Updated: 2026-08-22 15:49 UTC
+# MTProto (8)
+# Updated: 2026-08-22 16:04 UTC
 
-tg://proxy?server=skein.chunkycorp.shop&port=8443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=185.130.115.175&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c
-tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d
 tg://proxy?server=lynette.myrka.digital&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c
+tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d
+tg://proxy?server=skein.chunkycorp.shop&port=8443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=nyakawai.shop&port=443&secret=eefddb26d5047ce1787ece232a57832391617669746f2e7275
-tg://proxy?server=connect.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275
 tg://proxy?server=edge.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f3656467652e6c6f76656c792e6c6174
+tg://proxy?server=connect.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275
 tg://proxy?server=edge.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275
-tg://proxy?server=megaconnect.click&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
