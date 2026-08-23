@@ -1,11 +1,8 @@
-# MTProto (8)
-# Updated: 2026-08-23 04:04 UTC
+# MTProto (5)
+# Updated: 2026-08-23 04:19 UTC
 
-tg://proxy?server=v2.rkn.dog&port=443&secret=ee06189c51d736de3d9c64ae858b690c5076322e726b6e2e646f67
 tg://proxy?server=185.130.115.175&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c
 tg://proxy?server=lynette.myrka.digital&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c
 tg://proxy?server=jarko.myrka.digital&port=443&secret=ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c
-tg://proxy?server=nyakawai.shop&port=443&secret=eefddb26d5047ce1787ece232a57832391617669746f2e7275
-tg://proxy?server=freeconnect.lol&port=443&secret=eef7a565db46f8f5bf156054d86db42969617669746f2e7275
 tg://proxy?server=connect.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275
 tg://proxy?server=103.158.117.163&port=2000&secret=ee00eade16ec3a9f70074d050e4e01c99f7869756e6f2e636e
