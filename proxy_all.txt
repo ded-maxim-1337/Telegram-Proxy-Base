@@ -1,10 +1,9 @@
 tg://proxy?server=v2.rkn.dog&port=443&secret=ee287ce7c4a1b49eafbea829a551d058a676322e726b6e2e646f67
-tg://proxy?server=gateway.lovely.lat&port=443&secret=eeec835a34516912f161a0073339be3c64676174657761792e6c6f76656c792e6c6174
 tg://proxy?server=t4.myrka.digital&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c
-tg://proxy?server=api.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275
 tg://proxy?server=jarko.myrka.digital&port=443&secret=ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c
-tg://proxy?server=route.lovely.lat&port=443&secret=eefbfe5681832d6f42bbc050839be23bf4726f7574652e6c6f76656c792e6c6174
-tg://proxy?server=edge.mtjlpoto.fit&port=443&secret=eeef7017f26c9ecb71ed8d7609992943186d2e6265626f6f2e7275
 tg://proxy?server=185.130.114.45&port=443&secret=ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c
+tg://proxy?server=gateway.lovely.lat&port=443&secret=eeec835a34516912f161a0073339be3c64676174657761792e6c6f76656c792e6c6174
+tg://proxy?server=api.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275
+tg://proxy?server=route.lovely.lat&port=443&secret=eefbfe5681832d6f42bbc050839be23bf4726f7574652e6c6f76656c792e6c6174
 tg://proxy?server=edge.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275
 tg://proxy?server=api.mtjlpoto.fit&port=443&secret=eeef7017f26c9ecb71ed8d7609992943186d2e6265626f6f2e7275
