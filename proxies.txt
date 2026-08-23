@@ -1,28 +1,13 @@
-# MTProto (25)
-# Updated: 2026-08-23 15:34 UTC
+# MTProto (10)
+# Updated: 2026-08-23 15:49 UTC
 
 tg://proxy?server=v2.rkn.dog&port=443&secret=ee20a4e0e068b272b1715cb6d11db3b6fa76322e726b6e2e646f67
-tg://proxy?server=node.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36e6f64652e6c6f76656c792e6c6174
 tg://proxy?server=jarko.myrka.digital&port=443&secret=ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c
-tg://proxy?server=t4.myrka.digital&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c
 tg://proxy?server=185.130.114.45&port=443&secret=ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c
-tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d
+tg://proxy?server=t4.myrka.digital&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c
+tg://proxy?server=node.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36e6f64652e6c6f76656c792e6c6174
 tg://proxy?server=gateway.lovely.lat&port=443&secret=eeec835a34516912f161a0073339be3c64676174657761792e6c6f76656c792e6c6174
-tg://proxy?server=route.lovely.lat&port=443&secret=eefbfe5681832d6f42bbc050839be23bf4726f7574652e6c6f76656c792e6c6174
-tg://proxy?server=45.11.92.251&port=443&secret=eea339ca5cc76d3f7946a1356a63f0947d6b69636b2e636f6d
-tg://proxy?server=connect.mtjlpoto.fit&port=443&secret=eeef7017f26c9ecb71ed8d7609992943186d2e6265626f6f2e7275
 tg://proxy?server=201.51.21.236&port=443&secret=ee1e15e5be813d207cc9955bd0f9cada957777772e616d7374657264616d2e6e6c
-tg://proxy?server=proxy.awx.info&port=443&secret=eef8bf3435c7514288510de49a9c4a70d070726f78792e6177782e696e666f
 tg://proxy?server=route.lovely.lat&port=443&secret=eefbfe5681832d6f42bbc050839be23bf46d2e6265626f6f2e7275
-tg://proxy?server=media2.happtg.org&port=443&secret=ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275
-tg://proxy?server=media9.happtg.org&port=443&secret=ee2e7c3d85e469cb8f825f4678a716a363706574726f766963682e7275
-tg://proxy?server=s1.assetflux.org&port=443&secret=ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275
-tg://proxy?server=cdn9.cdnwave.org&port=443&secret=ee2e7c3d85e469cb8f825f4678a716a363706574726f766963682e7275
-tg://proxy?server=api.mtjlpoto.fit&port=443&secret=eeef7017f26c9ecb71ed8d7609992943186d2e6265626f6f2e7275
-tg://proxy?server=95.163.214.161&port=443&secret=eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275
-tg://proxy?server=cdn7.cdnwave.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275
-tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363
-tg://proxy?server=cdn8.cdnwave.org&port=443&secret=eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275
-tg://proxy?server=cdn6.cdnwave.org&port=443&secret=ee7391242569590e01416101927d38b565646e732d73686f702e7275
-tg://proxy?server=fast.prx.mom&port=443&secret=ee4ab57d7496fa8fed3fc2cd1cea6ee1b7666173742e7072782e6d6f6d
-tg://proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275
+tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d
+tg://proxy?server=route.lovely.lat&port=443&secret=eefbfe5681832d6f42bbc050839be23bf4726f7574652e6c6f76656c792e6c6174
