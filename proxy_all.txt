@@ -1,8 +1,8 @@
 tg://proxy?server=assets.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275
-tg://proxy?server=159.194.214.176&port=443&secret=eea339ca5cc76d3f7946a1356a63f0947d6b69636b2e636f6d
-tg://proxy?server=t4.myrka.digital&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c
 tg://proxy?server=82.97.246.193&port=443&secret=ee1e15e5be813d207cc9955bd0f9cada957777772e616d7374657264616d2e6e6c
-tg://proxy?server=cdn.mtproxy.cc&port=443&secret=eeef7017f26c9ecb71ed8d7609992943186d2e6265626f6f2e7275
 tg://proxy?server=185.130.114.45&port=443&secret=ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c
-tg://proxy?server=route.lovely.lat&port=443&secret=eefbfe5681832d6f42bbc050839be23bf4726f7574652e6c6f76656c792e6c6174
+tg://proxy?server=t4.myrka.digital&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c
+tg://proxy?server=159.194.214.176&port=443&secret=eea339ca5cc76d3f7946a1356a63f0947d6b69636b2e636f6d
 tg://proxy?server=pr.zainet.tech&port=443&secret=eede3d59c3af0fceb2df7e945a2d1921b870722e7a61696e65742e74656368
+tg://proxy?server=route.lovely.lat&port=443&secret=eefbfe5681832d6f42bbc050839be23bf4726f7574652e6c6f76656c792e6c6174
+tg://proxy?server=cdn.mtproxy.cc&port=443&secret=eeef7017f26c9ecb71ed8d7609992943186d2e6265626f6f2e7275
