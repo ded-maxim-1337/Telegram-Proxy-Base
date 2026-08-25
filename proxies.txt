@@ -1,5 +1,5 @@
 # MTProto (2)
-# Updated: 2026-08-25 12:49 UTC
+# Updated: 2026-08-25 13:04 UTC
 
 tg://proxy?server=v2.rkn.dog&port=443&secret=ee51090dca3ead12ae322ec33472d820c876322e726b6e2e646f67
 tg://proxy?server=edge.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f3656467652e6c6f76656c792e6c6174
