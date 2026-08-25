@@ -1,10 +1,9 @@
-# MTProto (7)
-# Updated: 2026-08-25 22:49 UTC
+# MTProto (6)
+# Updated: 2026-08-25 23:04 UTC
 
 tg://proxy?server=185.173.145.5&port=443&secret=ee68ae8284982465dfcb198342d01cdedb6f7a6f6e2e7275
 tg://proxy?server=jarko.myrka.digital&port=443&secret=ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c
-tg://proxy?server=cluster.mtproxy.cc&port=443&secret=eeef7017f26c9ecb71ed8d760999294318636c75737465722e6d7470726f78792e6363
 tg://proxy?server=cdn.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f363646e2e6c6f76656c792e6c6174
-tg://proxy?server=api.mtproxy.cc&port=443&secret=eeef7017f26c9ecb71ed8d7609992943186170692e6d7470726f78792e6363
+tg://proxy?server=cluster.mtproxy.cc&port=443&secret=eeef7017f26c9ecb71ed8d760999294318636c75737465722e6d7470726f78792e6363
 tg://proxy?server=freedom.bypasslab.abrdns.com&port=443&secret=ddb4da653fe1804405f8bf86ee8ed74812
-tg://proxy?server=assets.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275
+tg://proxy?server=api.mtproxy.cc&port=443&secret=eeef7017f26c9ecb71ed8d7609992943186170692e6d7470726f78792e6363
