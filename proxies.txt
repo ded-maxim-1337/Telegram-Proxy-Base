@@ -1,7 +1,7 @@
 # MTProto (4)
-# Updated: 2026-08-26 20:49 UTC
+# Updated: 2026-08-26 21:04 UTC
 
-tg://proxy?server=data.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f3646174612e6c6f76656c792e6c6174
 tg://proxy?server=213.176.115.251&port=443&secret=eeea48eaf56923aa0efb3efe56be8812576f7a6f6e2e7275
+tg://proxy?server=data.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f3646174612e6c6f76656c792e6c6174
 tg://proxy?server=chestno.servera-dlya-tg-zdes-net.abrdns.com&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275
 tg://proxy?server=freedom.bypasslab.abrdns.com&port=443&secret=ddb4da653fe1804405f8bf86ee8ed74812
