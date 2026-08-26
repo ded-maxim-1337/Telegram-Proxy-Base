@@ -1,9 +1,9 @@
 # MTProto (6)
-# Updated: 2026-08-26 22:19 UTC
+# Updated: 2026-08-26 22:34 UTC
 
-tg://proxy?server=data.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f3646174612e6c6f76656c792e6c6174
 tg://proxy?server=meow-meow-fast.site&port=443&secret=eeaea279c83d92a4c4fa8a780bf10b8c4b6d656f772d6d656f772d666173742e73697465
+tg://proxy?server=data.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f3646174612e6c6f76656c792e6c6174
 tg://proxy?server=gamerpr.cfd&port=443&secret=ee3cd8b9e99a48486b14d0f6169d0b8d06617669746f2e7275
-tg://proxy?server=edge.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f3656467652e6c6f76656c792e6c6174
-tg://proxy?server=freedom.bypasslab.abrdns.com&port=443&secret=ddb4da653fe1804405f8bf86ee8ed74812
 tg://proxy?server=live.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275
+tg://proxy?server=freedom.bypasslab.abrdns.com&port=443&secret=ddb4da653fe1804405f8bf86ee8ed74812
+tg://proxy?server=edge.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f3656467652e6c6f76656c792e6c6174
