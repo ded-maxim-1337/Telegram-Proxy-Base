@@ -1,9 +1,9 @@
 tg://proxy?server=kostyanchekloh.lol&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b49617669746f2e7275
-tg://proxy?server=assets.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275
 tg://proxy?server=185.173.145.5&port=443&secret=ee68ae8284982465dfcb198342d01cdedb6f7a6f6e2e7275
-tg://proxy?server=cluster.mtproxy.cc&port=443&secret=eeef7017f26c9ecb71ed8d760999294318636c75737465722e6d7470726f78792e6363
-tg://proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef23617669746f2e7275
 tg://proxy?server=megaconnect.click&port=443&secret=ee283d3bf19b80aa8a9ca06a2244c01c8a617669746f2e7275
+tg://proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef23617669746f2e7275
+tg://proxy?server=cluster.mtproxy.cc&port=443&secret=eeef7017f26c9ecb71ed8d760999294318636c75737465722e6d7470726f78792e6363
+tg://proxy?server=assets.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275
+tg://proxy?server=freedom.bypasslab.abrdns.com&port=443&secret=ddb4da653fe1804405f8bf86ee8ed74812
 tg://proxy?server=edge.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f3656467652e6c6f76656c792e6c6174
 tg://proxy?server=cloud.mtjlpoto.fit&port=443&secret=eeef7017f26c9ecb71ed8d760999294318636c6f75642e6d746a6c706f746f2e666974
-tg://proxy?server=freedom.bypasslab.abrdns.com&port=443&secret=ddb4da653fe1804405f8bf86ee8ed74812
