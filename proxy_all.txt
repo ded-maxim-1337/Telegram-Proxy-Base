@@ -1,11 +1,8 @@
 tg://proxy?server=213.176.115.251&port=443&secret=eeea48eaf56923aa0efb3efe56be8812576f7a6f6e2e7275
-tg://proxy?server=kostyanchekloh.lol&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b49617669746f2e7275
 tg://proxy?server=chestno.servera-dlya-tg-zdes-net.abrdns.com&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275
-tg://proxy?server=connect.mtproxy.cc&port=443&secret=eeef7017f26c9ecb71ed8d760999294318636f6e6e6563742e6d7470726f78792e6363
+tg://proxy?server=176.98.182.60&port=7443&secret=ee2d954feb566b43c70d4b228e1fc0336b74672e6c756d61787664732e6f7267
+tg://proxy?server=kostyanchekloh.lol&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b49617669746f2e7275
 tg://proxy?server=api.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275
 tg://proxy?server=data.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f3646174612e6c6f76656c792e6c6174
-tg://proxy?server=176.98.182.60&port=7443&secret=ee2d954feb566b43c70d4b228e1fc0336b74672e6c756d61787664732e6f7267
-tg://proxy?server=node.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36e6f64652e6c6f76656c792e6c6174
-tg://proxy?server=cloud.mtjlpoto.fit&port=443&secret=eeef7017f26c9ecb71ed8d760999294318636c6f75642e6d746a6c706f746f2e666974
 tg://proxy?server=freedom.bypasslab.abrdns.com&port=443&secret=ddb4da653fe1804405f8bf86ee8ed74812
 tg://proxy?server=freeconnect.lol&port=443&secret=eef7a565db46f8f5bf156054d86db42969617669746f2e7275
