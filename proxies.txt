@@ -1,13 +1,10 @@
-# MTProto (10)
-# Updated: 2026-08-26 04:04 UTC
+# MTProto (7)
+# Updated: 2026-08-26 04:19 UTC
 
 tg://proxy?server=kostyanchekloh.lol&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b49617669746f2e7275
 tg://proxy?server=jarko.myrka.digital&port=443&secret=ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c
+tg://proxy?server=edge.mtjlpoto.fit&port=443&secret=eeef7017f26c9ecb71ed8d7609992943186d2e6265626f6f2e7275
 tg://proxy?server=megaconnect.click&port=443&secret=ee283d3bf19b80aa8a9ca06a2244c01c8a617669746f2e7275
+tg://proxy?server=freedom.bypasslab.abrdns.com&port=443&secret=ddb4da653fe1804405f8bf86ee8ed74812
 tg://proxy?server=gateway.mtjlpoto.fit&port=443&secret=eeef7017f26c9ecb71ed8d7609992943186d2e6265626f6f2e7275
 tg://proxy?server=31.58.87.179&port=443&secret=ee44bba5fdde571acf4dd7ffe839c20f5b6d2e6265626f6f2e7275
-tg://proxy?server=freedom.bypasslab.abrdns.com&port=443&secret=ddb4da653fe1804405f8bf86ee8ed74812
-tg://proxy?server=gateway.lovely.lat&port=443&secret=eeec835a34516912f161a0073339be3c64676174657761792e6c6f76656c792e6c6174
-tg://proxy?server=flux.lovely.lat&port=443&secret=ee6f8c7d9193585ada7d22acf074ad6d97666c75782e6c6f76656c792e6c6174
-tg://proxy?server=edge.mtjlpoto.fit&port=443&secret=eeef7017f26c9ecb71ed8d7609992943186d2e6265626f6f2e7275
-tg://proxy?server=core.mtjlpoto.fit&port=443&secret=eeef7017f26c9ecb71ed8d7609992943186d2e6265626f6f2e7275
