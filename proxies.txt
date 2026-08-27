@@ -1,19 +1,14 @@
-# MTProto (16)
-# Updated: 2026-08-27 08:04 UTC
+# MTProto (11)
+# Updated: 2026-08-27 08:19 UTC
 
 tg://proxy?server=v2.rkn.dog&port=443&secret=ee78ebfbcfac497fcf77a88a2a7523e6b876322e726b6e2e646f67
 tg://proxy?server=217.144.187.230&port=443&secret=ee68ae8284982465dfcb198342d01cdedb6f7a6f6e2e7275
 tg://proxy?server=meow-meow-fast.site&port=443&secret=eeaea279c83d92a4c4fa8a780bf10b8c4b6d656f772d6d656f772d666173742e73697465
 tg://proxy?server=cloud.mtproxy.cc&port=443&secret=eeef7017f26c9ecb71ed8d760999294318636c6f75642e6d7470726f78792e6363
 tg://proxy?server=data.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f3646174612e6c6f76656c792e6c6174
+tg://proxy?server=node.mtjlpoto.fit&port=443&secret=eeef7017f26c9ecb71ed8d7609992943186d2e6265626f6f2e7275
 tg://proxy?server=176.98.182.60&port=7443&secret=ee2d954feb566b43c70d4b228e1fc0336b74672e6c756d61787664732e6f7267
-tg://proxy?server=core.mtproxy.cc&port=443&secret=eeef7017f26c9ecb71ed8d760999294318636f72652e6d7470726f78792e6363
-tg://proxy?server=cloud.mtjlpoto.fit&port=443&secret=eeef7017f26c9ecb71ed8d760999294318636c6f75642e6d746a6c706f746f2e666974
-tg://proxy?server=flux.lovely.lat&port=443&secret=ee6f8c7d9193585ada7d22acf074ad6d97666c75782e6c6f76656c792e6c6174
 tg://proxy?server=cdn.mtjlpoto.fit&port=443&secret=eeef7017f26c9ecb71ed8d7609992943186d2e6265626f6f2e7275
 tg://proxy?server=edge.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f3656467652e6c6f76656c792e6c6174
 tg://proxy?server=global.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275
-tg://proxy?server=assets.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275
 tg://proxy?server=cdn8.cdnwave.org&port=443&secret=eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275
-tg://proxy?server=nexus.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275
-tg://proxy?server=node.mtjlpoto.fit&port=443&secret=eeef7017f26c9ecb71ed8d7609992943186d2e6265626f6f2e7275
