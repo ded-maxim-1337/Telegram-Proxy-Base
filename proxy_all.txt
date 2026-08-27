@@ -1,8 +1,6 @@
 tg://proxy?server=meow-meow-fast.site&port=443&secret=eeaea279c83d92a4c4fa8a780bf10b8c4b6d656f772d6d656f772d666173742e73697465
 tg://proxy?server=jarko.myrka.digital&port=443&secret=ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c
-tg://proxy?server=relay.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275
 tg://proxy?server=95.163.214.161&port=443&secret=eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275
+tg://proxy?server=relay.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275
 tg://proxy?server=gateway.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f3676174657761792e6c6f76656c792e6c6174
-tg://proxy?server=a02.mtjlpoto.fit&port=443&secret=eefc12ba3e57a0bbf431fe455a0c6534946130322e6d746a6c706f746f2e666974
 tg://proxy?server=freedom.bypasslab.abrdns.com&port=443&secret=ddb4da653fe1804405f8bf86ee8ed74812
-tg://proxy?server=gateway.mtjlpoto.fit&port=443&secret=eeef7017f26c9ecb71ed8d7609992943186d2e6265626f6f2e7275
