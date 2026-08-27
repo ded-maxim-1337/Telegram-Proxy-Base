@@ -1,5 +1,5 @@
 # MTProto (4)
-# Updated: 2026-08-27 11:49 UTC
+# Updated: 2026-08-27 12:04 UTC
 
 tg://proxy?server=217.144.187.230&port=443&secret=ee68ae8284982465dfcb198342d01cdedb6f7a6f6e2e7275
 tg://proxy?server=meow-meow-fast.site&port=443&secret=eeaea279c83d92a4c4fa8a780bf10b8c4b6d656f772d6d656f772d666173742e73697465
